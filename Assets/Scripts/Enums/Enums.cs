@@ -1,13 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public enum Orientation
+﻿public enum Orientation
 {
-    NORTH,
-    EAST,
-    SOUTH,
-    WEST,
-    NONE
-   
+    north,
+    east,
+    south,
+    west,
+    none
 }
+

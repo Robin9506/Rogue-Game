@@ -1,5 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
@@ -20,9 +19,10 @@ public class RoomTemplateSO : ScriptableObject
     [Tooltip("The gameobject prefab for the room (this will contain all the tilemaps for the room and environment game objects")]
 
     #endregion Tooltip
+
     public GameObject prefab;
 
-    [HideInInspector] public GameObject previousPrefab;
+    [HideInInspector] public GameObject previousPrefab; // this is used to regenerate the guid if the so is copied and the prefab is changed
 
 
     #region Header ROOM CONFIGURATION
@@ -72,6 +72,9 @@ public class RoomTemplateSO : ScriptableObject
 
     public Vector2Int[] spawnPositionArray;
 
+    /// <summary>
+    /// Returns the list of Entrances for the room template
+    /// </summary>
     public List<Doorway> GetDoorwayList()
     {
         return doorwayList;
@@ -101,5 +104,4 @@ public class RoomTemplateSO : ScriptableObject
 #endif
 
     #endregion Validation
-
 }
