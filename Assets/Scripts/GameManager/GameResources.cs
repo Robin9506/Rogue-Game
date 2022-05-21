@@ -16,6 +16,31 @@ public class GameResources : MonoBehaviour
         }
     }
 
-    [Header("Dungeon")]
+    #region Header DUNGEON
+    [Space(10)]
+    [Header("DUNGEON")]
+    #endregion
+    #region Tooltip
+    [Tooltip("Populate with the dungeon RoomNodeTypeListSO")]
+    #endregion
+
     public RoomNodeTypeListSO RoomNodeTypeList;
+
+    #region Header PLAYER
+    [Space(10)]
+    [Header("PLAYER")]
+    #endregion Header PLAYER
+    #region Tooltip
+    [Tooltip("The current player scriptable object - this is used to reference the current player between scenes")]
+    #endregion Tooltip
+    public CurrentPlayerSO currentPlayer;
+
+    #region Header MATERIALS
+    [Space(10)]
+    [Header("MATERIALS")]
+    #endregion
+    #region Tooltip
+    [Tooltip("Dimmed Material")]
+    #endregion
+    public Material dimmedMaterial;
 }

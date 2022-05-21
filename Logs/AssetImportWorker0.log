@@ -15,11 +15,11 @@ G:/UnityProjects/DungeonGameUdemy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60258
+60427
 Successfully changed project path to: G:/UnityProjects/DungeonGameUdemy
 G:/UnityProjects/DungeonGameUdemy
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 80.88 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 79.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -36,519 +36,177 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002244 seconds.
+Registered in 0.001379 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 73.87 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 76.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.978 seconds
+- Completed reload, in  1.022 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001189 seconds.
+Registered in 0.001306 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 72.82 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 79.51 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.842 seconds
+- Completed reload, in  0.877 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2237 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 119.3 MB.
-System memory in use after: 119.4 MB.
+Unloading 2247 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.6 MB.
+System memory in use after: 119.7 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2693.
-Total: 1.966300 ms (FindLiveObjects: 0.187400 ms CreateObjectMapping: 0.107000 ms MarkObjects: 1.606400 ms  DeleteObjects: 0.064700 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2704.
+Total: 2.090800 ms (FindLiveObjects: 0.196100 ms CreateObjectMapping: 0.100500 ms MarkObjects: 1.714900 ms  DeleteObjects: 0.078200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/Utilities/HelperUtilities.cs
-  artifactKey: Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Utilities/HelperUtilities.cs using Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2047d35f033272b4070168e76a01da9') in 0.048416 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001185 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.711 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2107 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.2 MB.
-System memory in use after: 110.3 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2695.
-Total: 1.745900 ms (FindLiveObjects: 0.164500 ms CreateObjectMapping: 0.080900 ms MarkObjects: 1.460000 ms  DeleteObjects: 0.039700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 88.858839 seconds.
-  path: Assets/Scripts/Utilities/HelperUtilities.cs
-  artifactKey: Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Utilities/HelperUtilities.cs using Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9656622b690b7fe824c1eb59bb051b02') in 0.004184 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.853076 seconds.
-  path: Assets/Scripts/Dungeon/DungeonLevelSO.cs
-  artifactKey: Guid(9d0e6d1dd7331574baf7a4fcaf18b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Dungeon/DungeonLevelSO.cs using Guid(9d0e6d1dd7331574baf7a4fcaf18b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd476f77c7bd6c0aff853f034686370') in 0.005920 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001229 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.869 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2108 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.3 MB.
-System memory in use after: 110.4 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2698.
-Total: 2.218300 ms (FindLiveObjects: 0.254000 ms CreateObjectMapping: 0.134500 ms MarkObjects: 1.780000 ms  DeleteObjects: 0.048800 ms)
-
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheThief/TheThiefRollUp.png
+  artifactKey: Guid(2eb55b8d40bea474dba80ef4106969c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheThief/TheThiefRollUp.png using Guid(2eb55b8d40bea474dba80ef4106969c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e3e00f4705fd9e4d2cc2dbd9da5582d') in 0.128969 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.001168 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.700 seconds
+- Completed reload, in  0.783 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2108 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.4 MB.
-System memory in use after: 110.5 MB.
+Unloading 2118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.8 MB.
+System memory in use after: 114.9 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2700.
-Total: 1.798100 ms (FindLiveObjects: 0.182600 ms CreateObjectMapping: 0.095700 ms MarkObjects: 1.475600 ms  DeleteObjects: 0.043000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1063.414312 seconds.
-  path: Assets/Scripts/Dungeon/DungeonLevelSO.cs
-  artifactKey: Guid(9d0e6d1dd7331574baf7a4fcaf18b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Dungeon/DungeonLevelSO.cs using Guid(9d0e6d1dd7331574baf7a4fcaf18b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87183aa89c718f0e682dae6120ac805e') in 0.004348 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 23.298050 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels
-  artifactKey: Guid(6bbc4532e10de0143bb70eac4d13eee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels using Guid(6bbc4532e10de0143bb70eac4d13eee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8244f93a02a61793d68ad93cb5e9d554') in 0.006610 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.232790 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level1.asset
-  artifactKey: Guid(a782c9a831260c042b0ff417e64eb1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level1.asset using Guid(a782c9a831260c042b0ff417e64eb1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) levelName is empty and must contain a value in object DungeonLevel_Level1
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:9)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:55)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 9)
-
-roomTemplateList has no values in object DungeonLevel_Level1
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:40)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:56)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 40)
-
- -> (artifact id: 'c48bd61c4aae8660dff4a8bfde917038') in 0.035449 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 176.554078 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level2.asset
-  artifactKey: Guid(60350ef71a0ce9a40a9fbd4b03ed5c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level2.asset using Guid(60350ef71a0ce9a40a9fbd4b03ed5c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) levelName is empty and must contain a value in object DungeonLevel_Level2
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:9)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:55)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 9)
-
-roomTemplateList has no values in object DungeonLevel_Level2
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:40)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:56)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 40)
-
- -> (artifact id: 'd1549cb8cb7101bf723688a655b017cf') in 0.006664 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 102.439213 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level3.asset
-  artifactKey: Guid(85adbf0dd07d08d4b94ecbc0777ea698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level3.asset using Guid(85adbf0dd07d08d4b94ecbc0777ea698) Importer(815301076,1909f56bfc062723c751e8b465ee728b) levelName is empty and must contain a value in object DungeonLevel_Level3
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:9)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:55)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 9)
-
-roomTemplateList has no values in object DungeonLevel_Level3
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:40)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:56)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 40)
-
- -> (artifact id: '487888416ee4ef6ac6a0159470c670c0') in 0.007512 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 56.214841 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level4.asset
-  artifactKey: Guid(7610c7160baab974ea9841c656c06700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level4.asset using Guid(7610c7160baab974ea9841c656c06700) Importer(815301076,1909f56bfc062723c751e8b465ee728b) levelName is empty and must contain a value in object DungeonLevel_Level4
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:9)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:55)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 9)
-
-roomTemplateList has no values in object DungeonLevel_Level4
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:40)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:56)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 40)
-
- -> (artifact id: 'bc8b649f9ba6da3913f0c76b0f23a27f') in 0.006927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 72.707392 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Rooms/Sorcery/Room_SmallRoom_Sorcery_1.asset
-  artifactKey: Guid(c98dffe00f9083e4c92a8c220c948709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Rooms/Sorcery/Room_SmallRoom_Sorcery_1.asset using Guid(c98dffe00f9083e4c92a8c220c948709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67e1ddc43adcd1d6237523534ea9dff') in 0.012080 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 29.257105 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level5.asset
-  artifactKey: Guid(493aeb2926e48a2459badea0bc29e295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level5.asset using Guid(493aeb2926e48a2459badea0bc29e295) Importer(815301076,1909f56bfc062723c751e8b465ee728b) levelName is empty and must contain a value in object DungeonLevel_Level5
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:9)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:55)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 9)
-
-roomTemplateList has no values in object DungeonLevel_Level5
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:40)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:56)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 40)
-
- -> (artifact id: 'bbed9061e3bb4a40f724ef8299147b60') in 0.006363 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 64.797798 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level6.asset
-  artifactKey: Guid(e5a4d59b7e2944e43a867b0fc30630cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Levels/DungeonLevel_Level6.asset using Guid(e5a4d59b7e2944e43a867b0fc30630cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) levelName is empty and must contain a value in object DungeonLevel_Level6
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:9)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:55)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 9)
-
-roomTemplateList has no values in object DungeonLevel_Level6
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckEnumerableValues (UnityEngine.Object,string,System.Collections.IEnumerable) (at Assets/Scripts/Utilities/HelperUtilities.cs:40)
-DungeonLevelSO:OnValidate () (at Assets/Scripts/Dungeon/DungeonLevelSO.cs:56)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 40)
-
- -> (artifact id: 'f0f19f78a1b5eb2ff556423743d5b743') in 0.007280 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 162.333784 seconds.
-  path: Assets/ScriptableObjectAssets/Dungeon/Rooms/Sorcery/Room_BossRoom_Sorcery_2.asset
-  artifactKey: Guid(c78573f3520f5964bab250658e509661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Dungeon/Rooms/Sorcery/Room_BossRoom_Sorcery_2.asset using Guid(c78573f3520f5964bab250658e509661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfad22511c07b014dba853fdfc702b5f') in 0.008662 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 241.090371 seconds.
-  path: Assets/Scripts/Misc/SingletonMonobehaviour.cs
-  artifactKey: Guid(f07b58c52e61f91439c763a786a5c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Misc/SingletonMonobehaviour.cs using Guid(f07b58c52e61f91439c763a786a5c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d5e6df12d1f71f1dbc2b074b76c906') in 0.008433 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001130 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.739 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.8 MB.
-System memory in use after: 110.9 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2703.
-Total: 1.876900 ms (FindLiveObjects: 0.173600 ms CreateObjectMapping: 0.076000 ms MarkObjects: 1.583500 ms  DeleteObjects: 0.042900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001201 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.697 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.8 MB.
-System memory in use after: 110.9 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2705.
-Total: 1.818900 ms (FindLiveObjects: 0.167400 ms CreateObjectMapping: 0.080900 ms MarkObjects: 1.529400 ms  DeleteObjects: 0.039900 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2728.
+Total: 2.185500 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.147800 ms MarkObjects: 1.754300 ms  DeleteObjects: 0.057600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 337.933519 seconds.
-  path: Assets/Scripts/Misc/SingletonMonobehaviour.cs
-  artifactKey: Guid(f07b58c52e61f91439c763a786a5c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Misc/SingletonMonobehaviour.cs using Guid(f07b58c52e61f91439c763a786a5c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19bab49e8f838c4fec3222b6b48745a') in 0.006970 seconds 
+  Time since last request: 482.849851 seconds.
+  path: Assets/Prefabs/Player/TheGeneral
+  artifactKey: Guid(081e6735cc40b154cb19ba297ac2b56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheGeneral using Guid(081e6735cc40b154cb19ba297ac2b56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89e0ace440616f86492b953041916ae') in 0.010608 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 665.642123 seconds.
-  path: Assets/Scripts/GameManager/GameManager.cs
-  artifactKey: Guid(48d91341ec0295b46ba8754c77c96db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameManager/GameManager.cs using Guid(48d91341ec0295b46ba8754c77c96db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2937ac2343633b55941bf3671318106') in 0.009166 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001370 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.708 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2110 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.8 MB.
-System memory in use after: 110.9 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2708.
-Total: 1.816000 ms (FindLiveObjects: 0.174100 ms CreateObjectMapping: 0.085100 ms MarkObjects: 1.512500 ms  DeleteObjects: 0.043500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001189 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.699 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2110 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.7 MB.
-System memory in use after: 110.8 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2710.
-Total: 1.741600 ms (FindLiveObjects: 0.170300 ms CreateObjectMapping: 0.081000 ms MarkObjects: 1.449400 ms  DeleteObjects: 0.040100 ms)
-
+  Time since last request: 16.018251 seconds.
+  path: Assets/Prefabs/Player/TheGeneral.prefab
+  artifactKey: Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheGeneral.prefab using Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa8deb73bcd4137862a612e806f2eb5') in 0.154332 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 297.019468 seconds.
-  path: Assets/Scripts/GameManager/GameManager.cs
-  artifactKey: Guid(48d91341ec0295b46ba8754c77c96db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameManager/GameManager.cs using Guid(48d91341ec0295b46ba8754c77c96db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e0bb1d90046fdd401b88478f4a8d14') in 0.004109 seconds 
+  Time since last request: 90.480301 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralIdleUp.png
+  artifactKey: Guid(9a93187f08419c741b2e66627c6149ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralIdleUp.png using Guid(9a93187f08419c741b2e66627c6149ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1421e13b9468091683745821fe7497d') in 0.044508 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 181.772893 seconds.
-  path: Assets/Scripts/Dungeon/Room.cs
-  artifactKey: Guid(3ede2c16cd6eee8498fe37b6dbdc77eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Dungeon/Room.cs using Guid(3ede2c16cd6eee8498fe37b6dbdc77eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bb0e9dcfb2ca04cd02ca88b6850c61') in 0.010513 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001261 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.718 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2111 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.7 MB.
-System memory in use after: 110.8 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2713.
-Total: 2.042700 ms (FindLiveObjects: 0.163600 ms CreateObjectMapping: 0.085200 ms MarkObjects: 1.751500 ms  DeleteObjects: 0.041500 ms)
-
+  Time since last request: 10.185069 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralMoveUp.png
+  artifactKey: Guid(f30f517a81f2218409eed70fbae8ddf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralMoveUp.png using Guid(f30f517a81f2218409eed70fbae8ddf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588575624a8cda747cb818720db531c0') in 0.087556 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 280.460116 seconds.
-  path: Assets/Scripts/Dungeon/Room.cs
-  artifactKey: Guid(3ede2c16cd6eee8498fe37b6dbdc77eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Dungeon/Room.cs using Guid(3ede2c16cd6eee8498fe37b6dbdc77eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1c792a2ec46ba63517cd8e369aad77') in 0.005262 seconds 
+  Time since last request: 57.903224 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralIdleRight.png
+  artifactKey: Guid(ce3f10a3a9ad3c34baad25a046b6ebeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralIdleRight.png using Guid(ce3f10a3a9ad3c34baad25a046b6ebeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04122b8b7fb890c0a7201bf0441a3d6d') in 0.032549 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.130110 seconds.
-  path: Assets/Scripts/Dungeon/InstantiatedRoom.cs
-  artifactKey: Guid(b4254f588596c1d4eb552df767393c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Dungeon/InstantiatedRoom.cs using Guid(b4254f588596c1d4eb552df767393c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6332432073807b421eb9c1c90a83b58') in 0.006402 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001252 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.708 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2112 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 110.8 MB.
-System memory in use after: 110.9 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2716.
-Total: 1.752300 ms (FindLiveObjects: 0.164200 ms CreateObjectMapping: 0.083100 ms MarkObjects: 1.462800 ms  DeleteObjects: 0.041400 ms)
-
+  Time since last request: 61.910021 seconds.
+  path: Assets/Prefabs/Player/TheScientist
+  artifactKey: Guid(428fba4f1b81d224e9f69c23c58e1bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheScientist using Guid(428fba4f1b81d224e9f69c23c58e1bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a53f6b0ec2c7d8456afe0157ec9d06b') in 0.004630 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 227.491292 seconds.
-  path: Assets/CourseAssets/Shaders/Old_DungeonLightShader_Variable.shadergraph
-  artifactKey: Guid(304a236819d488f409a1dfccdc33ea46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Shaders/Old_DungeonLightShader_Variable.shadergraph using Guid(304a236819d488f409a1dfccdc33ea46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba15266e202617f770f047272a9aff7f') in 0.060278 seconds 
+  Time since last request: 9.278437 seconds.
+  path: Assets/Prefabs/Player/TheScientist.prefab
+  artifactKey: Guid(1b919c1ac6f07ad44beec7fd2550b009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheScientist.prefab using Guid(1b919c1ac6f07ad44beec7fd2550b009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11fa00b5a43b6f73d2c54f34a060c174') in 0.010496 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.952187 seconds.
-  path: Assets/CourseAssets/Textures/Sprites/Weapons/Enemy/HocusPlasmus.png
-  artifactKey: Guid(14929ad3eca0ef941a96820c56a5deba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Textures/Sprites/Weapons/Enemy/HocusPlasmus.png using Guid(14929ad3eca0ef941a96820c56a5deba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d55939d0b99d5b08e8ceb733e304aa') in 0.109327 seconds 
+  Time since last request: 25.649885 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistIdleUp.png
+  artifactKey: Guid(5d93016b2dee82a4095e85f19adcba6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistIdleUp.png using Guid(5d93016b2dee82a4095e85f19adcba6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210dfec82121e54aaecb97975bdca0ff') in 0.023116 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/CourseAssets/Textures/SpritesNotInAtlas/Spark2.png
-  artifactKey: Guid(0353c94c9a71d82479019ca3270b87b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Textures/SpritesNotInAtlas/Spark2.png using Guid(0353c94c9a71d82479019ca3270b87b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45bffa0d29c4a83d57a0714df7111a3') in 0.029331 seconds 
+  Time since last request: 33.589793 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistMoveRight.png
+  artifactKey: Guid(fe21ebe6d86791f4c911d60c3ceafe8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistMoveRight.png using Guid(fe21ebe6d86791f4c911d60c3ceafe8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e3ad064eddfe19b5d82ad9cf5d82ac') in 0.020346 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/CourseAssets/Textures/SpritesNotInAtlas/Spark1.png
-  artifactKey: Guid(60c9b182f92a10640a06c22b270f6bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Textures/SpritesNotInAtlas/Spark1.png using Guid(60c9b182f92a10640a06c22b270f6bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7c4f6f5620c4a020ab3d6d3e2b2ac3') in 0.033888 seconds 
+  Time since last request: 7.541700 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistIdleDown.png
+  artifactKey: Guid(ffa25ab59b41d9d4abbfe10d88fea3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistIdleDown.png using Guid(ffa25ab59b41d9d4abbfe10d88fea3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a701cae683f61ce54be5115cdbb51ec') in 0.020893 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.735431 seconds.
-  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
-  artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93a286b782f90e9ab0e1b20e3c06251') in 0.127675 seconds 
+  Time since last request: 3.272221 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistRollUp.png
+  artifactKey: Guid(62f8dc75ebd73a147815429a36ef3c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheScientist/TheScientistRollUp.png using Guid(62f8dc75ebd73a147815429a36ef3c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff5b73fc4d0d5bce1754a1e7eb66ea4') in 0.025683 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.133187 seconds.
-  path: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader
-  artifactKey: Guid(e260cfa7296ee7642b167f1eb5be5023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader using Guid(e260cfa7296ee7642b167f1eb5be5023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72bc4ccebb32d95a819567def6ac96b2') in 0.003198 seconds 
+  Time since last request: 77.456615 seconds.
+  path: Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab
+  artifactKey: Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab using Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfeab624402ca5cf84a0aae7ce73c665') in 0.020243 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 79.847086 seconds.
-  path: Assets/CourseAssets/Shaders
-  artifactKey: Guid(2e692c4da4d4ed449b47692524e9b5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Shaders using Guid(2e692c4da4d4ed449b47692524e9b5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410585de95e440cc34ab27024ebb0ef0') in 0.007820 seconds 
+  Time since last request: 34.154415 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralRollRight.png
+  artifactKey: Guid(8cdf903a44976304a880b3e290c4567c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralRollRight.png using Guid(8cdf903a44976304a880b3e290c4567c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7132f31f7a6f5e08b1a2eca93081e297') in 0.030626 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.263283 seconds.
-  path: Assets/CourseAssets/Shaders/DungeonLightShader_Variable.shadergraph
-  artifactKey: Guid(84aba567f39ef6a40a8013e366efc929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Shaders/DungeonLightShader_Variable.shadergraph using Guid(84aba567f39ef6a40a8013e366efc929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e156d37db276da1b968c44a62288ab9') in 0.005379 seconds 
+  Time since last request: 2.972622 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralIdleUpRight.png
+  artifactKey: Guid(00301a9551d2ee947bec77df614931fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralIdleUpRight.png using Guid(00301a9551d2ee947bec77df614931fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db4ee4cef655549667db3877e86caa5') in 0.025593 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 634.413252 seconds.
-  path: Assets/CourseAssets/Shaders/DungeonLightShader_Variable.shadergraph
-  artifactKey: Guid(84aba567f39ef6a40a8013e366efc929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CourseAssets/Shaders/DungeonLightShader_Variable.shadergraph using Guid(84aba567f39ef6a40a8013e366efc929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3c9b77471eb208ca98d060c8ed73e1') in 0.003126 seconds 
+  Time since last request: 4.346428 seconds.
+  path: Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralRollDown.png
+  artifactKey: Guid(9f85801b0af27ef4f8d15a54f15b2c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Textures/Sprites/Player/TheGeneral/TheGeneralRollDown.png using Guid(9f85801b0af27ef4f8d15a54f15b2c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff06d91221f78dd0258ff01adfcd622') in 0.024944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.424744 seconds.
+  path: Assets/Prefabs/Player/TheThief/TheThief.prefab
+  artifactKey: Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheThief/TheThief.prefab using Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b1885e5b24e06805a68ea0052bb054') in 0.019066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 129.720870 seconds.
+  path: Assets/Prefabs/Player/TheThief/TheThief.prefab
+  artifactKey: Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheThief/TheThief.prefab using Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a625217cdca205d60e702226d1dc517e') in 0.019140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.788775 seconds.
+  path: Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab
+  artifactKey: Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab using Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2378606263ce01d10a844276e30b7b1d') in 0.019253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.225863 seconds.
+  path: Assets/Prefabs/Player/TheThief/TheThief.prefab
+  artifactKey: Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheThief/TheThief.prefab using Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ad7e2d41b90fb821d2ac1c8e133721') in 0.015153 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
