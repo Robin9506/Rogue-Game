@@ -364,8 +364,11 @@
 "Assets/Scripts/Weapons/Ammo/Ammo.cs"
 "Assets/Scripts/Weapons/Ammo/AmmoDetailsSO.cs"
 "Assets/Scripts/Weapons/Ammo/IFireable.cs"
+"Assets/Scripts/Weapons/Weapons/ActiveWeapon.cs"
 "Assets/Scripts/Weapons/Weapons/AimWeapon.cs"
 "Assets/Scripts/Weapons/Weapons/AimWeaponEvent.cs"
+"Assets/Scripts/Weapons/Weapons/SetActiveWeaponEvent.cs"
+"Assets/Scripts/Weapons/Weapons/Weapon.cs"
 "Assets/Scripts/Weapons/Weapons/WeaponDetailsSO.cs"
 -langversion:8.0
 
