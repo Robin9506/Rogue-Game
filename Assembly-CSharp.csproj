@@ -56,17 +56,19 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Weapons\AimWeapon.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\AimWeapon.cs" />
     <Compile Include="Assets\Scripts\Dungeon\InstantiatedRoom.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeListSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeSO.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Compile Include="Assets\Scripts\Player\AnimatePlayer.cs" />
-    <Compile Include="Assets\Scripts\Weapons\AimWeaponEvent.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\AimWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementToPosition.cs" />
     <Compile Include="Assets\Scripts\Movement\IdleEvent.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DungeonBuilder.cs" />
+    <Compile Include="Assets\Scripts\StaticEvents\StaticEventHandler.cs" />
+    <Compile Include="Assets\Scripts\Dungeon\Door.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementDetailsSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
     <Compile Include="Assets\Scripts\Misc\SingletonMonobehaviour.cs" />
@@ -74,7 +76,9 @@
     <Compile Include="Assets\Scripts\Misc\CinemachineTarget.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameResources.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
+    <Compile Include="Assets\Scripts\PoolManager\PoolManager.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocity.cs" />
+    <Compile Include="Assets\Scripts\Dungeon\DoorLightingControl.cs" />
     <Compile Include="Assets\Scripts\Misc\ScreenCursor.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomTemplateSO.cs" />
     <Compile Include="Assets\Scripts\Utilities\HelperUtilities.cs" />
@@ -88,12 +92,9 @@
     <Compile Include="Assets\Scripts\Dungeon\DungeonLevelSO.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocityEvent.cs" />
     <Compile Include="Assets\Scripts\Misc\Settings.cs" />
-    <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
-    <Compile Include="Assets\Scripts\Dungeon\Door.cs" />
-    <Compile Include="Assets\Scripts\StaticEvents\StaticEventHandler.cs" />
-    <Compile Include="Assets\Scripts\Dungeon\DoorLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
-    <Compile Include="Assets\Scripts\PoolManager\PoolManager.cs" />
+    <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponDetailsSO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
