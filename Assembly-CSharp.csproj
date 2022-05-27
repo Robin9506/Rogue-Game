@@ -95,6 +95,9 @@
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\IFireable.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
