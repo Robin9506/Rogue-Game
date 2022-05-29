@@ -320,6 +320,9 @@ GameObject:
   - component: {fileID: 6732146772287036350}
   - component: {fileID: 5585879423118564425}
   - component: {fileID: 8238644932085765107}
+  - component: {fileID: 1709202642862669893}
+  - component: {fileID: 2300224300743498919}
+  - component: {fileID: -7748271812978054573}
   m_Layer: 10
   m_Name: Player
   m_TagString: Player
@@ -543,6 +546,8 @@ MonoBehaviour:
   setActiveWeaponEvent: {fileID: 0}
   activeWeapon: {fileID: 0}
   weaponFiredEvent: {fileID: 0}
+  reloadWeaponEvent: {fileID: 0}
+  weaponReloadedEvent: {fileID: 0}
   spriteRenderer: {fileID: 0}
   animator: {fileID: 0}
 --- !u!114 &4726875926641422454
@@ -729,6 +734,42 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7b77614cbad26584d9c28140b7abe6e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1709202642862669893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2772427478080217293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ba74383b79f43e4ebcca8401051717c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2300224300743498919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2772427478080217293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abd1ea4fea19f5440bf3bd383d836de3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-7748271812978054573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2772427478080217293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4db3ce83e95e1b42a328cc08399dbb6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4443637242754623065

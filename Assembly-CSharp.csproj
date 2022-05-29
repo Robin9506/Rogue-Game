@@ -104,6 +104,9 @@
     <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponFiredEvent.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeapon.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\ReloadWeaponEvent.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponReloadedEvent.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\ReloadWeapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
