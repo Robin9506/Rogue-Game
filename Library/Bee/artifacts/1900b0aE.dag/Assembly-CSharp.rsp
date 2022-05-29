@@ -367,9 +367,12 @@
 "Assets/Scripts/Weapons/Weapons/ActiveWeapon.cs"
 "Assets/Scripts/Weapons/Weapons/AimWeapon.cs"
 "Assets/Scripts/Weapons/Weapons/AimWeaponEvent.cs"
+"Assets/Scripts/Weapons/Weapons/FireWeapon.cs"
+"Assets/Scripts/Weapons/Weapons/FireWeaponEvent.cs"
 "Assets/Scripts/Weapons/Weapons/SetActiveWeaponEvent.cs"
 "Assets/Scripts/Weapons/Weapons/Weapon.cs"
 "Assets/Scripts/Weapons/Weapons/WeaponDetailsSO.cs"
+"Assets/Scripts/Weapons/Weapons/WeaponFiredEvent.cs"
 -langversion:8.0
 
 /deterministic

@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeSO.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Compile Include="Assets\Scripts\Player\AnimatePlayer.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\SetActiveWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\AimWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementToPosition.cs" />
     <Compile Include="Assets\Scripts\Movement\IdleEvent.cs" />
@@ -69,14 +70,18 @@
     <Compile Include="Assets\Scripts\Dungeon\DungeonBuilder.cs" />
     <Compile Include="Assets\Scripts\StaticEvents\StaticEventHandler.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Door.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\Weapon.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementDetailsSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
     <Compile Include="Assets\Scripts\Misc\SingletonMonobehaviour.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
     <Compile Include="Assets\Scripts\Misc\CinemachineTarget.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameResources.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\IFireable.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
     <Compile Include="Assets\Scripts\PoolManager\PoolManager.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocity.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DoorLightingControl.cs" />
     <Compile Include="Assets\Scripts\Misc\ScreenCursor.cs" />
@@ -88,19 +93,17 @@
     <Compile Include="Assets\Scripts\Dungeon\Room.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
     <Compile Include="Assets\Scripts\Movement\Idle.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\ActiveWeapon.cs" />
     <Compile Include="Assets\Scripts\Enums\Enums.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DungeonLevelSO.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocityEvent.cs" />
     <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponDetailsSO.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoDetailsSO.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Ammo\IFireable.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Weapons\Weapon.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Weapons\SetActiveWeaponEvent.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Weapons\ActiveWeapon.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeaponEvent.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponFiredEvent.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
