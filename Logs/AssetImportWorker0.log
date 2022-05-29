@@ -851,3 +851,84 @@ System memory in use after: 118.3 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3028.
 Total: 2.107100 ms (FindLiveObjects: 0.209700 ms CreateObjectMapping: 0.104800 ms MarkObjects: 1.746700 ms  DeleteObjects: 0.045100 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001249 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2148 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.9 MB.
+System memory in use after: 119.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3030.
+Total: 2.490000 ms (FindLiveObjects: 0.334800 ms CreateObjectMapping: 0.202500 ms MarkObjects: 1.898500 ms  DeleteObjects: 0.053100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.513206 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol 1
+  artifactKey: Guid(7941d4c0e231f7540899e4fbf7e71f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol 1 using Guid(7941d4c0e231f7540899e4fbf7e71f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9cf5b6122ec18786b43609e2a64418') in 0.007396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.082820 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver
+  artifactKey: Guid(7941d4c0e231f7540899e4fbf7e71f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver using Guid(7941d4c0e231f7540899e4fbf7e71f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743ecdbf1976ef84a0664ce74162cc1b') in 0.003887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.947051 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/AmmoDetails_Pistol.asset
+  artifactKey: Guid(b0ff8d341ad420c44906955910f58c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/AmmoDetails_Pistol.asset using Guid(b0ff8d341ad420c44906955910f58c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040e39e33dfb6eb4238bfe482d307be1') in 0.045159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.250150 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/AmmoDetails_Revoler.asset
+  artifactKey: Guid(b0ff8d341ad420c44906955910f58c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/AmmoDetails_Revoler.asset using Guid(b0ff8d341ad420c44906955910f58c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6606a6d1d0b38e355f953ec4ce5311fd') in 0.005137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.213429 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/AmmoDetails_Revolver.asset
+  artifactKey: Guid(b0ff8d341ad420c44906955910f58c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/AmmoDetails_Revolver.asset using Guid(b0ff8d341ad420c44906955910f58c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec851cf927efcb7988e881396bf44f1') in 0.005581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.149461 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/WeaponDetails_Pistol.asset
+  artifactKey: Guid(0d5738f57bde53f4ba7d089e77b36aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/WeaponDetails_Pistol.asset using Guid(0d5738f57bde53f4ba7d089e77b36aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a292761c595df582299ca2a3921d6b') in 0.005939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.284011 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/WeaponDetails_Revolver.asset
+  artifactKey: Guid(0d5738f57bde53f4ba7d089e77b36aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/WeaponDetails_Revolver.asset using Guid(0d5738f57bde53f4ba7d089e77b36aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7352aeafba30af966a65acddccfc64a9') in 0.005519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 212.535042 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/WeaponDetails_Revolver.asset
+  artifactKey: Guid(0d5738f57bde53f4ba7d089e77b36aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/WeaponDetails_Revolver.asset using Guid(0d5738f57bde53f4ba7d089e77b36aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2aa2f924d8dbd52f8a9902275f6990') in 0.003139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.503029 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/CurrentPlayer.asset
+  artifactKey: Guid(c502ad9c2dbe24949ab6770aa5434f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/CurrentPlayer.asset using Guid(c502ad9c2dbe24949ab6770aa5434f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcba665d85e9c386fe0751772d2ff708') in 0.024431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.600472 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset
+  artifactKey: Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset using Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8db102644c0b273ffe51651f50de830') in 0.018461 seconds 
