@@ -1389,3 +1389,1372 @@ System memory in use after: 120.3 MB.
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2947.
 Total: 2.445100 ms (FindLiveObjects: 0.258500 ms CreateObjectMapping: 0.142600 ms MarkObjects: 1.992500 ms  DeleteObjects: 0.050400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 390.300581 seconds.
+  path: Assets/CourseAssets/Sounds/GameAudioMixer.mixer
+  artifactKey: Guid(2ac509b551addfb48950fbdc0d9cefb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CourseAssets/Sounds/GameAudioMixer.mixer using Guid(2ac509b551addfb48950fbdc0d9cefb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4a1236eedaa1ccb2435449a1f4f2ab') in 0.021956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 787.541413 seconds.
+  path: Assets/Scripts/Sounds
+  artifactKey: Guid(700543bb48bc71f4881856622c0deb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds using Guid(700543bb48bc71f4881856622c0deb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041d7b1255a7bd98f3b7e04075cec1db') in 0.004535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.556233 seconds.
+  path: Assets/Scripts/Sounds/SoundEffectSO.cs
+  artifactKey: Guid(a3ae4d01a61bada44a0f70610c86a8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds/SoundEffectSO.cs using Guid(a3ae4d01a61bada44a0f70610c86a8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5137ed7691be4c39ee7abd74a0c3c92') in 0.004564 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001920 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2150 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2950.
+Total: 1.989000 ms (FindLiveObjects: 0.202300 ms CreateObjectMapping: 0.100700 ms MarkObjects: 1.636500 ms  DeleteObjects: 0.048900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.712 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2150 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.0 MB.
+System memory in use after: 119.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2952.
+Total: 2.478200 ms (FindLiveObjects: 0.251700 ms CreateObjectMapping: 0.127000 ms MarkObjects: 2.046400 ms  DeleteObjects: 0.051900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.801885 seconds.
+  path: Assets/Scripts/Sounds/SoundEffectSO.cs
+  artifactKey: Guid(a3ae4d01a61bada44a0f70610c86a8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds/SoundEffectSO.cs using Guid(a3ae4d01a61bada44a0f70610c86a8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e56473712751d64ba0abd17fa25df5') in 0.003723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.648862 seconds.
+  path: Assets/Scripts/Sounds/SoundEffect.cs
+  artifactKey: Guid(3d9d97b8817f30b44ab4fe36b795d047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds/SoundEffect.cs using Guid(3d9d97b8817f30b44ab4fe36b795d047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85147e49c8713e26f2cfea54b61e9dd6') in 0.004819 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.751 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2955.
+Total: 2.031500 ms (FindLiveObjects: 0.202900 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.687300 ms  DeleteObjects: 0.044300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001134 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2957.
+Total: 2.038700 ms (FindLiveObjects: 0.199700 ms CreateObjectMapping: 0.114600 ms MarkObjects: 1.677800 ms  DeleteObjects: 0.045700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.647680 seconds.
+  path: Assets/Scripts/Sounds/SoundEffect.cs
+  artifactKey: Guid(3d9d97b8817f30b44ab4fe36b795d047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds/SoundEffect.cs using Guid(3d9d97b8817f30b44ab4fe36b795d047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2becb0148bf92f86408a7f32f5c92de7') in 0.003857 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001178 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2959.
+Total: 2.121500 ms (FindLiveObjects: 0.251200 ms CreateObjectMapping: 0.113700 ms MarkObjects: 1.704600 ms  DeleteObjects: 0.051100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.121265 seconds.
+  path: Assets/Scripts/GameManager/GameResources.cs
+  artifactKey: Guid(75561b2518215b24f8ac2147956db47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager/GameResources.cs using Guid(75561b2518215b24f8ac2147956db47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a16859d1f3a307a6347bc960a1e549') in 0.006708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.022154 seconds.
+  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
+  artifactKey: Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24bb7e08068744a37eedd0900e2ca069') in 0.083088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.918931 seconds.
+  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
+  artifactKey: Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '459d11ba9c88d55aa0708dc658177485') in 0.019840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.821845 seconds.
+  path: Assets/Scripts/Utilities/HelperUtilities.cs
+  artifactKey: Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utilities/HelperUtilities.cs using Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab2cf3f18ae6de1c7082548ade61ff6') in 0.006144 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.3 MB.
+System memory in use after: 120.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2961.
+Total: 2.000500 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.096900 ms MarkObjects: 1.660800 ms  DeleteObjects: 0.043900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.165859 seconds.
+  path: Assets/Scripts/Utilities/HelperUtilities.cs
+  artifactKey: Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Utilities/HelperUtilities.cs using Guid(82216c7ae0c02db4fb0196e6cf962461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0487cd6da4a1f46c662a3d93b033f81') in 0.003906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.020072 seconds.
+  path: Assets/Scripts/Sounds/SoundEffectManager.cs
+  artifactKey: Guid(05ff5be0360b6a143a8740ae6ae84cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds/SoundEffectManager.cs using Guid(05ff5be0360b6a143a8740ae6ae84cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce994d94b945d14879f8d8523f4af8de') in 0.004281 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2964.
+Total: 2.172300 ms (FindLiveObjects: 0.195500 ms CreateObjectMapping: 0.095000 ms MarkObjects: 1.837100 ms  DeleteObjects: 0.044100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001195 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2966.
+Total: 2.307600 ms (FindLiveObjects: 0.251600 ms CreateObjectMapping: 0.124900 ms MarkObjects: 1.876400 ms  DeleteObjects: 0.053500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.350211 seconds.
+  path: Assets/Scripts/Sounds/SoundEffectManager.cs
+  artifactKey: Guid(05ff5be0360b6a143a8740ae6ae84cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sounds/SoundEffectManager.cs using Guid(05ff5be0360b6a143a8740ae6ae84cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657eced7f0b0ffc598128dddab84c73d') in 0.003682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 210.696665 seconds.
+  path: Assets/Prefabs/Sounds
+  artifactKey: Guid(4a037c7a44b76c943a1ba8af884eb8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sounds using Guid(4a037c7a44b76c943a1ba8af884eb8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400febd4ac5869602750bd9cbad18dfb') in 0.004791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.540678 seconds.
+  path: Assets/Prefabs/Sounds/SoundEffect.prefab
+  artifactKey: Guid(67bf3ca89af70d9438e29e3900047c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sounds/SoundEffect.prefab using Guid(67bf3ca89af70d9438e29e3900047c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01821c5d180d55cf3720ced52f1bdbe8') in 0.029473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.488574 seconds.
+  path: Assets/Prefabs/Sounds/SoundEffect.prefab
+  artifactKey: Guid(67bf3ca89af70d9438e29e3900047c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sounds/SoundEffect.prefab using Guid(67bf3ca89af70d9438e29e3900047c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618e17ea1ded6aa28f72ba1f29f684f8') in 0.003093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.573021 seconds.
+  path: Assets/Prefabs/Sounds/SoundEffect.prefab
+  artifactKey: Guid(67bf3ca89af70d9438e29e3900047c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sounds/SoundEffect.prefab using Guid(67bf3ca89af70d9438e29e3900047c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f108607a160817f4b2ad52b1b923fe50') in 0.002652 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2968.
+Total: 2.334700 ms (FindLiveObjects: 0.209200 ms CreateObjectMapping: 0.106500 ms MarkObjects: 1.967300 ms  DeleteObjects: 0.050600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.718 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2970.
+Total: 1.991500 ms (FindLiveObjects: 0.196300 ms CreateObjectMapping: 0.123800 ms MarkObjects: 1.628800 ms  DeleteObjects: 0.041900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001130 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2972.
+Total: 1.961400 ms (FindLiveObjects: 0.192900 ms CreateObjectMapping: 0.095600 ms MarkObjects: 1.626700 ms  DeleteObjects: 0.045200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 428.665882 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol.asset
+  artifactKey: Guid(ff34afb61b9dd4d4bbe58d4e9bf795bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol.asset using Guid(ff34afb61b9dd4d4bbe58d4e9bf795bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Pistol
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Pistol
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Pistol
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '9d5142e00e313ccc282ae609a4acffa1') in 0.025358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.644693 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol_Fire.asset
+  artifactKey: Guid(ff34afb61b9dd4d4bbe58d4e9bf795bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol_Fire.asset using Guid(ff34afb61b9dd4d4bbe58d4e9bf795bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Pistol_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Pistol_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Pistol_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'f594a7eff71d6cee522370c5daed8c0c') in 0.006572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.181893 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol_Fire.asset
+  artifactKey: Guid(ff34afb61b9dd4d4bbe58d4e9bf795bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol_Fire.asset using Guid(ff34afb61b9dd4d4bbe58d4e9bf795bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f20ecc2f7d3997da7589af6996562d0') in 0.002776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.680984 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol_Reload.asset
+  artifactKey: Guid(c91845377052fd1468c75e3ff302bc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol/SoundEffect_Pistol_Reload.asset using Guid(c91845377052fd1468c75e3ff302bc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Pistol_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Pistol_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Pistol_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '9544f83a4c844ebc474d5819c23fe835') in 0.005356 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001327 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2974.
+Total: 2.499200 ms (FindLiveObjects: 0.265900 ms CreateObjectMapping: 0.129500 ms MarkObjects: 2.056200 ms  DeleteObjects: 0.046600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.220164 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_.asset
+  artifactKey: Guid(e3c8134dafa4ba94eb2f5f4cbd237565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_.asset using Guid(e3c8134dafa4ba94eb2f5f4cbd237565) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '50cb0f449ee2cd5ad627f49dc8a7da52') in 0.020520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/AmmoDetails_GM6LynxSniper.asset
+  artifactKey: Guid(8693cd7cd8cb68a499816d1de2ea1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/AmmoDetails_GM6LynxSniper.asset using Guid(8693cd7cd8cb68a499816d1de2ea1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00223f8880eeaeb6aff300be24981d9') in 0.018349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.820915 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_GM6LynxSniper_Fire.asset
+  artifactKey: Guid(e3c8134dafa4ba94eb2f5f4cbd237565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_GM6LynxSniper_Fire.asset using Guid(e3c8134dafa4ba94eb2f5f4cbd237565) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_GM6LynxSniper_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_GM6LynxSniper_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_GM6LynxSniper_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'a10edd848b5246765ea0841e453bbea8') in 0.005557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.101220 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_GM6LynxSniper_Fire 1.asset
+  artifactKey: Guid(3e69c78b5abad064f83d9bed4993a9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_GM6LynxSniper_Fire 1.asset using Guid(3e69c78b5abad064f83d9bed4993a9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62987dc4975813028744294e7d3531fd') in 0.006628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.265778 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_GM6LynxSniper_Reload.asset
+  artifactKey: Guid(3e69c78b5abad064f83d9bed4993a9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/SoundEffect_GM6LynxSniper_Reload.asset using Guid(3e69c78b5abad064f83d9bed4993a9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba73a0a83edf160d540191daa049963') in 0.005321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.112768 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_GM6LynxSniper.asset
+  artifactKey: Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_GM6LynxSniper.asset using Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30db880483bd9d828a6eddb8e938b4eb') in 0.009134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.800907 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_GM6LynxSniper.asset
+  artifactKey: Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_GM6LynxSniper.asset using Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd121adf2f4e98603423585d4e13c56e9') in 0.004139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.637483 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7/SoundEffect_MP7_Fire.asset
+  artifactKey: Guid(124f939f5a11a2e4f8fb12093eebf5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7/SoundEffect_MP7_Fire.asset using Guid(124f939f5a11a2e4f8fb12093eebf5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_MP7_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_MP7_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_MP7_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'd387167aed677ca1ed3158da2a649119') in 0.005538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.762989 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7/SoundEffect_MP7_Fire 1.asset
+  artifactKey: Guid(6ef95e231eb0ccd4db3917a63e2d7c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7/SoundEffect_MP7_Fire 1.asset using Guid(6ef95e231eb0ccd4db3917a63e2d7c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_MP7_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_MP7_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_MP7_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'fa177f82fcc916fa9bc43b71f2cc17b5') in 0.005846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.976027 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7/SoundEffect_MP7_Reload.asset
+  artifactKey: Guid(6ef95e231eb0ccd4db3917a63e2d7c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7/SoundEffect_MP7_Reload.asset using Guid(6ef95e231eb0ccd4db3917a63e2d7c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_MP7_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_MP7_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_MP7_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'd05ba11a3c0bb8c16d338cf005ea670e') in 0.005128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.977977 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7/WeaponDetails_MP7.asset
+  artifactKey: Guid(34c1ba7869faabe4cb093a3cee8c2dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7/WeaponDetails_MP7.asset using Guid(34c1ba7869faabe4cb093a3cee8c2dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c50e36df95aed4f93d2da62344fb54c') in 0.006574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.787059 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Fire.asset
+  artifactKey: Guid(2022361887f56904bbcb31437be823c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Fire.asset using Guid(2022361887f56904bbcb31437be823c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_N22LaserBlaser_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_N22LaserBlaser_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_N22LaserBlaser_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'd76267394da972bff8af084ad8d14d1c') in 0.005719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.878097 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Fire 1.asset
+  artifactKey: Guid(cdddab5a5a75dfc42b6ec132ced7cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Fire 1.asset using Guid(cdddab5a5a75dfc42b6ec132ced7cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_N22LaserBlaser_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_N22LaserBlaser_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_N22LaserBlaser_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '109da02b37525dadacbb94258b52b61b') in 0.005567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.042075 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Reload.asset
+  artifactKey: Guid(cdddab5a5a75dfc42b6ec132ced7cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Reload.asset using Guid(cdddab5a5a75dfc42b6ec132ced7cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_N22LaserBlaser_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_N22LaserBlaser_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_N22LaserBlaser_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '6793f11a2bc92abdde4dfd618e700821') in 0.005406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.392645 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_N22LaserBlaster.asset
+  artifactKey: Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_N22LaserBlaster.asset using Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d376d60c18d644174796bf94f5d0af8') in 0.003263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.267798 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Reload 1.asset
+  artifactKey: Guid(17d89c3a03bca8d40ac8bb6279d1286e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Reload 1.asset using Guid(17d89c3a03bca8d40ac8bb6279d1286e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45cc054bd929e11bda2330f3f51cd82') in 0.005322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.476843 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Reload.asset
+  artifactKey: Guid(cdddab5a5a75dfc42b6ec132ced7cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/SoundEffect_N22LaserBlaser_Reload.asset using Guid(cdddab5a5a75dfc42b6ec132ced7cb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd985d708b3ed0c0a9d2037d44dbb5c9b') in 0.002228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.343909 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_N22LaserBlaser_Reload 1.asset
+  artifactKey: Guid(17d89c3a03bca8d40ac8bb6279d1286e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_N22LaserBlaser_Reload 1.asset using Guid(17d89c3a03bca8d40ac8bb6279d1286e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9586b85a72a93677c60ed934f30b2ae') in 0.002484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.946475 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_PlasmaBlaster_Reload.asset
+  artifactKey: Guid(17d89c3a03bca8d40ac8bb6279d1286e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_PlasmaBlaster_Reload.asset using Guid(17d89c3a03bca8d40ac8bb6279d1286e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b0d018b13a556dffded9f1bee0eaf6') in 0.005269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.335726 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_PlasmaBlaster_Reload 1.asset
+  artifactKey: Guid(d616106d199cb5b4fb353ec5348cfa8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_PlasmaBlaster_Reload 1.asset using Guid(d616106d199cb5b4fb353ec5348cfa8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc9a59004ec5be788c56b6f38106ac2') in 0.005221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.489810 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_PlasmaBlaster_Fire.asset
+  artifactKey: Guid(d616106d199cb5b4fb353ec5348cfa8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/SoundEffect_PlasmaBlaster_Fire.asset using Guid(d616106d199cb5b4fb353ec5348cfa8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81e38901251035eeeb3e42ea0825ad6') in 0.005966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.196765 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/AmmoDetails_QBZ95SMG.asset
+  artifactKey: Guid(55ea44b70f047bb42b999bbbbefa5de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/AmmoDetails_QBZ95SMG.asset using Guid(55ea44b70f047bb42b999bbbbefa5de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4809c79558f5ece2c7ac8d38f015bb26') in 0.002584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.456533 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/SoundEffect_QBZ95SMG_Fire.asset
+  artifactKey: Guid(a763d7866d0f27f42b777019da9bdf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/SoundEffect_QBZ95SMG_Fire.asset using Guid(a763d7866d0f27f42b777019da9bdf30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_QBZ95SMG_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_QBZ95SMG_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_QBZ95SMG_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '78167b01818cbf5a49326608a1df27f2') in 0.005521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.632694 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/SoundEffect_QBZ95SMG_Fire 1.asset
+  artifactKey: Guid(91867d973854c4e4096fe520818faed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/SoundEffect_QBZ95SMG_Fire 1.asset using Guid(91867d973854c4e4096fe520818faed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '582e3a4b864485283bea09ccf643fca9') in 0.006157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.518717 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/SoundEffect_QBZ95SMG_Reload.asset
+  artifactKey: Guid(91867d973854c4e4096fe520818faed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/SoundEffect_QBZ95SMG_Reload.asset using Guid(91867d973854c4e4096fe520818faed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292425e96949a0f04d47dad77df5dd05') in 0.005896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.734255 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_QBZ95SMG.asset
+  artifactKey: Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_QBZ95SMG.asset using Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4aff77da11ec4071b5770e06fb65754') in 0.005675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.881829 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/SoundEffect_Revolver_Fire.asset
+  artifactKey: Guid(87a56b18102f87b43b30b7b8646c195b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/SoundEffect_Revolver_Fire.asset using Guid(87a56b18102f87b43b30b7b8646c195b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Revolver_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Revolver_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Revolver_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '8faf024e5389bcac5b6814305b7a504a') in 0.005311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.811454 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/SoundEffect_Revolver_Fire 1.asset
+  artifactKey: Guid(54122a6f5efd1a74d934b48b63f22514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/SoundEffect_Revolver_Fire 1.asset using Guid(54122a6f5efd1a74d934b48b63f22514) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Revolver_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Revolver_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Revolver_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '113d6d716e51275c041662894619fac4') in 0.005576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.818339 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Revolver/SoundEffect_Revolver_Reload.asset
+  artifactKey: Guid(54122a6f5efd1a74d934b48b63f22514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Revolver/SoundEffect_Revolver_Reload.asset using Guid(54122a6f5efd1a74d934b48b63f22514) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Revolver_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Revolver_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Revolver_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '7cbae3636abaef5629d60839df08f06f') in 0.006692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.599759 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/SoundEffect_RocketLauncher_Fire.asset
+  artifactKey: Guid(2860a6158fafe4049bf4431348c97a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/SoundEffect_RocketLauncher_Fire.asset using Guid(2860a6158fafe4049bf4431348c97a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_RocketLauncher_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_RocketLauncher_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_RocketLauncher_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '05bc0b4069ce318a6666621653d5f086') in 0.005285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.626136 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/SoundEffect_RocketLauncher_Fire 1.asset
+  artifactKey: Guid(76b4f843cf290a746b7e4a07d4f2be2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/SoundEffect_RocketLauncher_Fire 1.asset using Guid(76b4f843cf290a746b7e4a07d4f2be2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f134f957477483efeb0769d13e68bc78') in 0.005104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.022788 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/SoundEffect_RocketLauncher_Reload.asset
+  artifactKey: Guid(76b4f843cf290a746b7e4a07d4f2be2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/SoundEffect_RocketLauncher_Reload.asset using Guid(76b4f843cf290a746b7e4a07d4f2be2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100c07bce30959a9d7e14d543561448e') in 0.006144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.823037 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/SoundEffect_Shotgun_Fire.asset
+  artifactKey: Guid(7ffded5f3d649e44ab52dc82c42737f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/SoundEffect_Shotgun_Fire.asset using Guid(7ffded5f3d649e44ab52dc82c42737f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Shotgun_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Shotgun_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Shotgun_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '82ee1d232c4eac35ce0289eabae15b82') in 0.005418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.841346 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/SoundEffect_Shotgun_Fire 1.asset
+  artifactKey: Guid(e665fa54114947a4f85975ff780ef635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/SoundEffect_Shotgun_Fire 1.asset using Guid(e665fa54114947a4f85975ff780ef635) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Shotgun_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Shotgun_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Shotgun_Fire
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '04f1564aa9d1422b669113a15d7594c1') in 0.005472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.634996 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/SoundEffect_Shotgun_Reload.asset
+  artifactKey: Guid(e665fa54114947a4f85975ff780ef635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/SoundEffect_Shotgun_Reload.asset using Guid(e665fa54114947a4f85975ff780ef635) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_Shotgun_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_Shotgun_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_Shotgun_Reload
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '152dff1cabc6b29dce1a95525ae2942e') in 0.006606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.709163 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/WeaponDetails_Shotgun.asset
+  artifactKey: Guid(b9917494434407847b2026619d57ce91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/WeaponDetails_Shotgun.asset using Guid(b9917494434407847b2026619d57ce91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedfd3342ef8ef82289e707be3e4e5d1') in 0.006016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.194051 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/WeaponDetails_RocketLauncher.asset
+  artifactKey: Guid(b69e8b0c37e512d4dac2121cf3b12972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/RocketLauncher/WeaponDetails_RocketLauncher.asset using Guid(b69e8b0c37e512d4dac2121cf3b12972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f53b06db9e5c5d8e7d69a145bbc7945') in 0.006409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.723312 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_QBZ95SMG.asset
+  artifactKey: Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_QBZ95SMG.asset using Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb310f4d012d74c1e0e6d8c5c5a41a39') in 0.004073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.249379 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/WeaponDetails_PlasmaBlaster.asset
+  artifactKey: Guid(20e7cc7e9a6d5c74f8248cae59afec7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/PlasmaBlaster/WeaponDetails_PlasmaBlaster.asset using Guid(20e7cc7e9a6d5c74f8248cae59afec7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c307228a437319b0f74c377229bf66f0') in 0.007056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.770229 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_N22LaserBlaster.asset
+  artifactKey: Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_N22LaserBlaster.asset using Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230c58c9c669e616a525f98e7dfb9a36') in 0.003720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.098135 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/WeaponDetails_Shotgun.asset
+  artifactKey: Guid(b9917494434407847b2026619d57ce91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Shotgun/WeaponDetails_Shotgun.asset using Guid(b9917494434407847b2026619d57ce91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee666664ca41243bfff4fa32b5d4f1fa') in 0.003384 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001495 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.5 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2976.
+Total: 2.268100 ms (FindLiveObjects: 0.240800 ms CreateObjectMapping: 0.123900 ms MarkObjects: 1.851100 ms  DeleteObjects: 0.051500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001241 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2978.
+Total: 2.018200 ms (FindLiveObjects: 0.209300 ms CreateObjectMapping: 0.098600 ms MarkObjects: 1.659600 ms  DeleteObjects: 0.049900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.845402 seconds.
+  path: Assets/ScriptableObjectAssets/Sounds
+  artifactKey: Guid(562e13d200f79f64eb12f7626b9ad86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Sounds using Guid(562e13d200f79f64eb12f7626b9ad86d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc5a9c78740573121ebea7457a45102') in 0.005072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.887903 seconds.
+  path: Assets/ScriptableObjectAssets/Sounds/SoundEffects
+  artifactKey: Guid(6e09765197d79e249bc0b903063faa64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Sounds/SoundEffects using Guid(6e09765197d79e249bc0b903063faa64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c8db0585309ecf7d648657d6d7b5f5') in 0.006793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.332510 seconds.
+  path: Assets/ScriptableObjectAssets/Sounds/SoundEffects/Dungeon
+  artifactKey: Guid(517162ce6e33c9e46adea9170a8d6ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Sounds/SoundEffects/Dungeon using Guid(517162ce6e33c9e46adea9170a8d6ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dae0da217efd9ab3c137976f96b930') in 0.005219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.182893 seconds.
+  path: Assets/ScriptableObjectAssets/Sounds/SoundEffects/Dungeon/Doors
+  artifactKey: Guid(28a3ed8134acaf14faef73c4b352fe26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Sounds/SoundEffects/Dungeon/Doors using Guid(28a3ed8134acaf14faef73c4b352fe26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee00d1dc2199e43f2a2a5418a5ac709') in 0.004868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.559144 seconds.
+  path: Assets/ScriptableObjectAssets/Sounds/SoundEffects/Dungeon/Doors/SoundEffect_DoorOpenClose.asset
+  artifactKey: Guid(b82851f219f5cfb42a33b804fb91cc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Sounds/SoundEffects/Dungeon/Doors/SoundEffect_DoorOpenClose.asset using Guid(b82851f219f5cfb42a33b804fb91cc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_DoorOpenClose
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_DoorOpenClose
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_DoorOpenClose
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '69caada09372a4939329dd631aee4d6f') in 0.019212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.502262 seconds.
+  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
+  artifactKey: Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) doorOpenCloseSoundEffect is null and must contain a value in object GameResources
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+GameResources:OnValidate () (at Assets/Scripts/GameManager/GameResources.cs:91)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: '430f9ad8352bb44957752dd403aca4ff') in 0.060848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.681912 seconds.
+  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
+  artifactKey: Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) soundEffectName is empty and must contain a value in object SoundEffect_DoorOpenClose
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckEmptyString (UnityEngine.Object,string,string) (at Assets/Scripts/Utilities/HelperUtilities.cs:98)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:42)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 98)
+
+soundPrefab is null and must contain a value in object SoundEffect_DoorOpenClose
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:43)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+soundEffectClip is null and must contain a value in object SoundEffect_DoorOpenClose
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
+SoundEffectSO:OnValidate () (at Assets/Scripts/Sounds/SoundEffectSO.cs:44)
+
+(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
+
+ -> (artifact id: 'e7836b6fc2cc5f9c84d42c9c8b04626e') in 0.024937 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.703 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.5 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2980.
+Total: 1.939300 ms (FindLiveObjects: 0.196800 ms CreateObjectMapping: 0.094600 ms MarkObjects: 1.602500 ms  DeleteObjects: 0.044700 ms)
+

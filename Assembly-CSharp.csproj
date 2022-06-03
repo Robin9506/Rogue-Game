@@ -111,6 +111,7 @@
     <Compile Include="Assets\Scripts\Sounds\SoundEffectSO.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffect.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffectManager.cs" />
+    <Compile Include="Assets\Scripts\Minimap\Minimap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

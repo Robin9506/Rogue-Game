@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3ae4d01a61bada44a0f70610c86a8ae, type: 3}
   m_Name: SoundEffect_DoorOpenClose
   m_EditorClassIdentifier: 
-  soundEffectName: 
-  soundPrefab: {fileID: 0}
-  soundEffectClip: {fileID: 0}
+  soundEffectName: Door Open Close
+  soundPrefab: {fileID: 8054887674932547973, guid: 67bf3ca89af70d9438e29e3900047c36, type: 3}
+  soundEffectClip: {fileID: 8300000, guid: 7f1653d2178fdc047a95879eb5bc482e, type: 3}
   soundEffectPitchRandomVariationMin: 0.8
-  soundEffectPitchRandomVariationMax: 1.2
-  soundEffectVolume: 1
+  soundEffectPitchRandomVariationMax: 1
+  soundEffectVolume: 0.7

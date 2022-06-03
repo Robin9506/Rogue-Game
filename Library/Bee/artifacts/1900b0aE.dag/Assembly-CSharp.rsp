@@ -338,6 +338,7 @@
 "Assets/Scripts/GameManager/GameManager.cs"
 "Assets/Scripts/GameManager/GameResources.cs"
 "Assets/Scripts/Health/Health.cs"
+"Assets/Scripts/Minimap/Minimap.cs"
 "Assets/Scripts/Misc/CinemachineTarget.cs"
 "Assets/Scripts/Misc/ScreenCursor.cs"
 "Assets/Scripts/Misc/Settings.cs"
