@@ -795,3 +795,138 @@ Received Import Request.
   path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset
   artifactKey: Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset using Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba86144eb909042d48ceed9877af105') in 0.314080 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001935 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.8 MB.
+System memory in use after: 114.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2802.
+Total: 2.370300 ms (FindLiveObjects: 0.281800 ms CreateObjectMapping: 0.178400 ms MarkObjects: 1.858700 ms  DeleteObjects: 0.050100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.819066 seconds.
+  path: Assets/Prefabs/Ammo/PlayerAmmo6x6.prefab
+  artifactKey: Guid(674117ae2141f9746b45fc1f837073fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ammo/PlayerAmmo6x6.prefab using Guid(674117ae2141f9746b45fc1f837073fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f967365b4aa3b016ebd486364ca71284') in 0.186451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.351609 seconds.
+  path: Assets/Prefabs/Ammo/PlayerAmmo6x6 1.prefab
+  artifactKey: Guid(1c4adc68267f5a8429b5c7ada20436f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ammo/PlayerAmmo6x6 1.prefab using Guid(1c4adc68267f5a8429b5c7ada20436f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7493ecc14cca7841696d46e3f06fe9f4') in 0.016640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.907241 seconds.
+  path: Assets/Prefabs/Ammo/PlayerAmmo4x4.prefab
+  artifactKey: Guid(1c4adc68267f5a8429b5c7ada20436f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ammo/PlayerAmmo4x4.prefab using Guid(1c4adc68267f5a8429b5c7ada20436f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d80a247719010c89c7e3de0a3872f8') in 0.011405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 139.573581 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol 1
+  artifactKey: Guid(69e74275d8f710f4a8b1071c35c205c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol 1 using Guid(69e74275d8f710f4a8b1071c35c205c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85006c60864c1e9c2bdcccc234813746') in 0.005610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.238716 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper
+  artifactKey: Guid(69e74275d8f710f4a8b1071c35c205c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper using Guid(69e74275d8f710f4a8b1071c35c205c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74bdcb101e1459a401a2a9fd7c1b4be2') in 0.005878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.579435 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/AmmoDetails_Pistol.asset
+  artifactKey: Guid(8693cd7cd8cb68a499816d1de2ea1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/AmmoDetails_Pistol.asset using Guid(8693cd7cd8cb68a499816d1de2ea1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c26a18e4ac9bdf62750f4375d44f4f') in 0.007537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.321755 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/AmmoDetails_GM6LynxSniper.asset
+  artifactKey: Guid(8693cd7cd8cb68a499816d1de2ea1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/AmmoDetails_GM6LynxSniper.asset using Guid(8693cd7cd8cb68a499816d1de2ea1019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9f397f0d45a86a9260e999fe0c6abb') in 0.005837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037410 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_Pistol.asset
+  artifactKey: Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_Pistol.asset using Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f528d333b2dc0309a663077c5c7bd7') in 0.007123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.871948 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_GM6LynxSniper.asset
+  artifactKey: Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/GM6LynxSniper/WeaponDetails_GM6LynxSniper.asset using Guid(05752030099ce4b42b4f104ac15b56e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ae88935eccb1ac5368d25083cfa88a') in 0.007205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 172.945914 seconds.
+  path: Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab
+  artifactKey: Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab using Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b46a84409d364fb4ca7892d2115b2f') in 0.028072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.989232 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset
+  artifactKey: Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset using Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f61281e226149056afc2c1a3761805f') in 0.018702 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.0 MB.
+System memory in use after: 120.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2851.
+Total: 2.392000 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.129700 ms MarkObjects: 1.963000 ms  DeleteObjects: 0.057000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001128 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.9 MB.
+System memory in use after: 119.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2853.
+Total: 2.006800 ms (FindLiveObjects: 0.198200 ms CreateObjectMapping: 0.098500 ms MarkObjects: 1.664000 ms  DeleteObjects: 0.045300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.641428 seconds.
+  path: Assets/Prefabs/Player/TheThief/TheThief.prefab
+  artifactKey: Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheThief/TheThief.prefab using Guid(5834e6908691de2429f3aba825a8128a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616749a7226c7e74d18e28001b35f418') in 0.173448 seconds 
