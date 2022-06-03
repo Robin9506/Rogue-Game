@@ -1038,3 +1038,78 @@ System memory in use after: 119.1 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2895.
 Total: 1.934200 ms (FindLiveObjects: 0.186200 ms CreateObjectMapping: 0.092700 ms MarkObjects: 1.611500 ms  DeleteObjects: 0.043100 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 76.792444 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7 1
+  artifactKey: Guid(946e814a65150a441b072ca8946965cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7 1 using Guid(946e814a65150a441b072ca8946965cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcbc1f02058395bd1dc7bc1fd17d3777') in 0.007598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.834082 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster
+  artifactKey: Guid(946e814a65150a441b072ca8946965cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster using Guid(946e814a65150a441b072ca8946965cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba4eef2d0f229e05c6602f9a3466b1c') in 0.004351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.887188 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/AmmoDetails_MP7.asset
+  artifactKey: Guid(19c5ce6a3b786654ebafa16d738cc5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/AmmoDetails_MP7.asset using Guid(19c5ce6a3b786654ebafa16d738cc5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64450845f32a5fc7d0ec95bdeb741eb') in 0.031344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.049288 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/AmmoDetails_N22LaserBlaster.asset
+  artifactKey: Guid(19c5ce6a3b786654ebafa16d738cc5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/AmmoDetails_N22LaserBlaster.asset using Guid(19c5ce6a3b786654ebafa16d738cc5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59a24c424466c20036b5419c0c04f2c') in 0.005836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038163 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_MP7.asset
+  artifactKey: Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_MP7.asset using Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c635caeb0189803961b1251b1eacba6') in 0.003351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.133314 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_N22LaserBlaster.asset
+  artifactKey: Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/N22LaserBlaster/WeaponDetails_N22LaserBlaster.asset using Guid(d5f82ccaaeaa42b4caa7471121b58dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28c23f6353539854cc0d99c06ff886d') in 0.005863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 84.986693 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7/AmmoDetails_MP7.asset
+  artifactKey: Guid(35dc128f00aea6f48b6bf958b67c2a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7/AmmoDetails_MP7.asset using Guid(35dc128f00aea6f48b6bf958b67c2a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cd1b3417e045a1004acee815091fda') in 0.005865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.544200 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7/WeaponDetails_MP7.asset
+  artifactKey: Guid(34c1ba7869faabe4cb093a3cee8c2dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7/WeaponDetails_MP7.asset using Guid(34c1ba7869faabe4cb093a3cee8c2dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd7ff39e747bd56a42c25db2be4a396') in 0.002798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.858949 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset
+  artifactKey: Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset using Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4030cac40921d7b6b5aaf2b8ae7e6e') in 0.019721 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001214 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.0 MB.
+System memory in use after: 120.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2897.
+Total: 1.986700 ms (FindLiveObjects: 0.235700 ms CreateObjectMapping: 0.100500 ms MarkObjects: 1.604100 ms  DeleteObjects: 0.045500 ms)
+
