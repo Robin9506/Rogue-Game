@@ -12,14 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0bcc614b45edf544380b8974cdf578ec, type: 3}
   m_Name: WeaponDetails_Shotgun
   m_EditorClassIdentifier: 
-  weaponName: Revolver
-  weaponSprite: {fileID: 21300000, guid: 29bc0107bc11191468ed7d175994fb5b, type: 3}
-  weaponShootPosition: {x: 1.15, y: 0.329, z: 0}
-  weaponCurrentAmmo: {fileID: 11400000, guid: b0ff8d341ad420c44906955910f58c9c, type: 2}
+  weaponName: Shotgun
+  weaponSprite: {fileID: 21300000, guid: 957e7c5a4532c7b4fa28cd31bf5aee5d, type: 3}
+  weaponShootPosition: {x: 1.376, y: 0.208, z: 0}
+  weaponCurrentAmmo: {fileID: 11400000, guid: 9d3f4876dec5c2543af450a7addc9088, type: 2}
+  weaponFiringSoundEffect: {fileID: 11400000, guid: 7ffded5f3d649e44ab52dc82c42737f6, type: 2}
+  weaponReloadingSoundEffect: {fileID: 11400000, guid: e665fa54114947a4f85975ff780ef635, type: 2}
   hasInfiniteAmmo: 0
   hasInfiniteClipCapacity: 0
-  weaponClipAmmoCapacity: 6
-  weaponAmmoCapacity: 40
-  weaponFireRate: 0.3
+  weaponClipAmmoCapacity: 4
+  weaponAmmoCapacity: 30
+  weaponFireRate: 0.4
   weaponPrechargeTime: 0
-  weaponReloadTime: 1.8
+  weaponReloadTime: 1

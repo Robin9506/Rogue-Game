@@ -108,6 +108,9 @@
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
     <Compile Include="Assets\Scripts\UI\WeaponStatusUI.cs" />
+    <Compile Include="Assets\Scripts\Sounds\SoundEffectSO.cs" />
+    <Compile Include="Assets\Scripts\Sounds\SoundEffect.cs" />
+    <Compile Include="Assets\Scripts\Sounds\SoundEffectManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
