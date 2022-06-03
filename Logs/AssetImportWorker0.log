@@ -1113,3 +1113,66 @@ System memory in use after: 120.2 MB.
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2897.
 Total: 1.986700 ms (FindLiveObjects: 0.235700 ms CreateObjectMapping: 0.100500 ms MarkObjects: 1.604100 ms  DeleteObjects: 0.045500 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 114.062866 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7 1
+  artifactKey: Guid(cfb7b791ce3efc443ba1722b1c3359cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7 1 using Guid(cfb7b791ce3efc443ba1722b1c3359cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9ca4c5b26aa7c4f0046bf076409eb7') in 0.003973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.370359 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG
+  artifactKey: Guid(cfb7b791ce3efc443ba1722b1c3359cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG using Guid(cfb7b791ce3efc443ba1722b1c3359cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'befac1ac80384a2e387779a576849e8a') in 0.005049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.858126 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/AmmoDetails_MP7.asset
+  artifactKey: Guid(55ea44b70f047bb42b999bbbbefa5de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/AmmoDetails_MP7.asset using Guid(55ea44b70f047bb42b999bbbbefa5de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f3ac6527e593c87fe3a1ffc0c936c9') in 0.027606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.792894 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/AmmoDetails_QBZ95SMG.asset
+  artifactKey: Guid(55ea44b70f047bb42b999bbbbefa5de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/AmmoDetails_QBZ95SMG.asset using Guid(55ea44b70f047bb42b999bbbbefa5de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7deb77ebbcf1b337ba1501cff1ce0f23') in 0.005573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034224 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_MP7.asset
+  artifactKey: Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_MP7.asset using Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a714499a75e6c3028328590bf9082906') in 0.003849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.292106 seconds.
+  path: Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_QBZ95SMG.asset
+  artifactKey: Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Weapons/Player/QBZ95SMG/WeaponDetails_QBZ95SMG.asset using Guid(0c59536b9d0ea24499d6fd26acf9b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5642ce5344e39b9197e1643a29463b') in 0.006028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 194.687996 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset
+  artifactKey: Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset using Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b87a614b6924372cd41872c01667d42') in 0.020265 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001297 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.0 MB.
+System memory in use after: 120.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2899.
+Total: 2.304800 ms (FindLiveObjects: 0.244300 ms CreateObjectMapping: 0.126200 ms MarkObjects: 1.887600 ms  DeleteObjects: 0.045800 ms)
+
