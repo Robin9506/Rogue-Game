@@ -360,6 +360,7 @@
 "Assets/Scripts/Player/PlayerDetailsSO.cs"
 "Assets/Scripts/PoolManager/PoolManager.cs"
 "Assets/Scripts/StaticEvents/StaticEventHandler.cs"
+"Assets/Scripts/UI/WeaponStatusUI.cs"
 "Assets/Scripts/Utilities/HelperUtilities.cs"
 "Assets/Scripts/Weapons/Ammo/Ammo.cs"
 "Assets/Scripts/Weapons/Ammo/AmmoDetailsSO.cs"
