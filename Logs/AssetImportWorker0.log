@@ -768,3 +768,30 @@ System memory in use after: 112.8 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2798.
 Total: 2.048700 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.099200 ms MarkObjects: 1.722000 ms  DeleteObjects: 0.045600 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001425 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.673 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.8 MB.
+System memory in use after: 112.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2800.
+Total: 1.963600 ms (FindLiveObjects: 0.205200 ms CreateObjectMapping: 0.100400 ms MarkObjects: 1.554000 ms  DeleteObjects: 0.103000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1200.660633 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset
+  artifactKey: Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheGeneral.asset using Guid(5dea7c1cea92929478d31f52a9ee1806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba86144eb909042d48ceed9877af105') in 0.314080 seconds 
