@@ -1022,6 +1022,15 @@ MonoBehaviour:
   - poolSize: 20
     prefab: {fileID: 7752694865770898500, guid: aa807a4db77b0854cb3c5c5fd46f50e8, type: 3}
     componentType: WeaponShootEffect
+  - poolSize: 20
+    prefab: {fileID: 1242000271072657361, guid: 248bca058ab14ef4ea541c3f60ea0773, type: 3}
+    componentType: WeaponShootEffect
+  - poolSize: 20
+    prefab: {fileID: 1858854415133308732, guid: 429ccdca5a1c4f4448e201289c2241d3, type: 3}
+    componentType: WeaponShootEffect
+  - poolSize: 20
+    prefab: {fileID: 1242000271072657361, guid: d53de9fe80332e74b94beee85b0fc6a8, type: 3}
+    componentType: AmmoHitEffect
 --- !u!4 &1011722170
 Transform:
   m_ObjectHideFlags: 0
@@ -1949,7 +1958,7 @@ MonoBehaviour:
     ModeOverride: 1
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.1336634, y: 1}
+    m_SensorSize: {x: 1.1782178, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2807,7 +2816,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 0
-  m_AspectRatio: 1.1336633
+  m_AspectRatio: 1.1782178
 --- !u!1 &2019800248
 GameObject:
   m_ObjectHideFlags: 3

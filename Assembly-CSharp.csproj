@@ -114,6 +114,10 @@
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffectSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffect.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffectSO.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffect.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
