@@ -381,6 +381,8 @@
 "Assets/Scripts/Weapons/Weapons/WeaponDetailsSO.cs"
 "Assets/Scripts/Weapons/Weapons/WeaponFiredEvent.cs"
 "Assets/Scripts/Weapons/Weapons/WeaponReloadedEvent.cs"
+"Assets/Scripts/Weapons/Weapons/WeaponShootEffect.cs"
+"Assets/Scripts/Weapons/Weapons/WeaponShootEffectSO.cs"
 -langversion:8.0
 
 /deterministic
