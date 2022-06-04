@@ -118,6 +118,10 @@
     <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffect.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
+    <Compile Include="Assets\Scripts\AStar\Node.cs" />
+    <Compile Include="Assets\Scripts\AStar\GridNodes.cs" />
+    <Compile Include="Assets\Scripts\AStar\AStar.cs" />
+    <Compile Include="Assets\Scripts\AStar\AStarTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

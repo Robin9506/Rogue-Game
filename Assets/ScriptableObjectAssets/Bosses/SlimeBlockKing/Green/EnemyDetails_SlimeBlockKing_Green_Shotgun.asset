@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: EnemyDetails_SlimeBlockKing_Green_Shotgun
   m_EditorClassIdentifier: 
   enemyName: Slime Block King  Green
-  enemyPrefab: {fileID: 3078313678809053380, guid: 394603203de695b478c68860180cba41, type: 3}
+  enemyPrefab: {fileID: 3078313678809053380, guid: 3ba5d75f4413ba947b3e76780af2dd16, type: 3}

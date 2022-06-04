@@ -2434,6 +2434,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1707634666}
   - component: {fileID: 1707634665}
+  - component: {fileID: 1707634667}
   m_Layer: 0
   m_Name: DungeonBuilder
   m_TagString: Untagged
@@ -2467,6 +2468,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1707634667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707634664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e30f6a7775b76734287d87bfb5ec645a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1724527563
 GameObject:
   m_ObjectHideFlags: 0
