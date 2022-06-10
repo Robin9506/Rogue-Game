@@ -123,6 +123,7 @@
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyMovementAI.cs" />
+    <Compile Include="Assets\Scripts\Enemies\AnimateEnemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

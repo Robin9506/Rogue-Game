@@ -338,6 +338,7 @@
 "Assets/Scripts/Dungeon/Room.cs"
 "Assets/Scripts/Dungeon/RoomLightingControl.cs"
 "Assets/Scripts/Dungeon/RoomTemplateSO.cs"
+"Assets/Scripts/Enemies/AnimateEnemy.cs"
 "Assets/Scripts/Enemies/Enemy.cs"
 "Assets/Scripts/Enemies/EnemyDetailsSO.cs"
 "Assets/Scripts/Enemies/EnemyMovementAI.cs"
