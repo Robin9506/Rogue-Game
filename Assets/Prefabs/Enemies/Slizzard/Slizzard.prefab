@@ -75,9 +75,17 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -4962105368696266709, guid: a8656369a18034244b64a0e94d781de5, type: 3}
+    - target: {fileID: 7650632105182656799, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
+      propertyPath: enemyDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: e3ad695b9cd96f04e8993f489f8f8ff6, type: 2}
     - target: {fileID: 7863284610920789715, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
       propertyPath: m_Name
       value: Slizzard
       objectReference: {fileID: 0}
+    - target: {fileID: 8712161814047595045, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
+      propertyPath: movementDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 713a5890a55e2904a855cd241bcad38a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}

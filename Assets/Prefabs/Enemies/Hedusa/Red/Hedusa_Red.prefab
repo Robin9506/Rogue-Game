@@ -163,9 +163,17 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 0.9433962
       objectReference: {fileID: 0}
+    - target: {fileID: 7650632105182656799, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
+      propertyPath: enemyDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 698c391774b23f84b96271f58ad09bb7, type: 2}
     - target: {fileID: 7863284610920789715, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
       propertyPath: m_Name
       value: Hedusa_Red
       objectReference: {fileID: 0}
+    - target: {fileID: 8712161814047595045, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
+      propertyPath: movementDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 9ee3c0c5332fca14e9aca7c365c1150b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}

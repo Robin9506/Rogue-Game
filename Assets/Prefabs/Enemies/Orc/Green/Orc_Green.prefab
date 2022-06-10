@@ -163,9 +163,17 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7650632105182656799, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
+      propertyPath: enemyDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 31c51e46a536479419162091b9c25448, type: 2}
     - target: {fileID: 7863284610920789715, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
       propertyPath: m_Name
       value: Orc_Green
       objectReference: {fileID: 0}
+    - target: {fileID: 8712161814047595045, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
+      propertyPath: movementDetails
+      value: 
+      objectReference: {fileID: 11400000, guid: 791f61ff9452b5e4a92926a3ae1d2e6e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ec6217296fa61d4a98d758dca476816, type: 3}
