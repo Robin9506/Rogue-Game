@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 870d322a379548e4c8256a90b02ebc8c, type: 3}
   m_Name: MovementDetails_Orc
   m_EditorClassIdentifier: 
-  minMoveSpeed: 8
-  maxMoveSpeed: 8
+  minMoveSpeed: 2
+  maxMoveSpeed: 3
   rollSpeed: 0
   rollDistance: 0
   rollCooldownTime: 0

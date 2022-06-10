@@ -124,6 +124,10 @@
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyMovementAI.cs" />
     <Compile Include="Assets\Scripts\Enemies\AnimateEnemy.cs" />
+    <Compile Include="Assets\Scripts\Utilities\SpawnableObjectRatio.cs" />
+    <Compile Include="Assets\Scripts\Utilities\SpawnableObjectsByLevel.cs" />
+    <Compile Include="Assets\Scripts\Utilities\RandomSpawnableObject.cs" />
+    <Compile Include="Assets\Scripts\Enemies\SpawnTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

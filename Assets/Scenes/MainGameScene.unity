@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 154448087}
   - component: {fileID: 154448086}
   - component: {fileID: 154448088}
+  - component: {fileID: 154448089}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -228,6 +229,19 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 154448085}
   m_Enabled: 1
+--- !u!114 &154448089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 154448085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b358db1b64136b4da75f10088f90eaa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomTemplateSO: {fileID: 11400000, guid: 5ec7c3fd29261984abd0f0a91400645d, type: 2}
 --- !u!1 &239402883
 GameObject:
   m_ObjectHideFlags: 0
@@ -1958,7 +1972,7 @@ MonoBehaviour:
     ModeOverride: 1
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.1782178, y: 1}
+    m_SensorSize: {x: 1.0676568, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2829,7 +2843,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 0
-  m_AspectRatio: 1.1782178
+  m_AspectRatio: 1.0676566
 --- !u!1 &2019800248
 GameObject:
   m_ObjectHideFlags: 3
