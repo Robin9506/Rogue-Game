@@ -60,6 +60,9 @@
     <Compile Include="Assets\Scripts\Weapons\Weapons\AimWeapon.cs" />
     <Compile Include="Assets\Scripts\Dungeon\InstantiatedRoom.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeListSO.cs" />
+    <Compile Include="Assets\Scripts\AStar\GridNodes.cs" />
+    <Compile Include="Assets\Scripts\AStar\AStar.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffectSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeSO.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Compile Include="Assets\Scripts\Player\AnimatePlayer.cs" />
@@ -68,25 +71,31 @@
     <Compile Include="Assets\Scripts\Movement\MovementToPosition.cs" />
     <Compile Include="Assets\Scripts\Movement\IdleEvent.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeaponEvent.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffect.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DungeonBuilder.cs" />
     <Compile Include="Assets\Scripts\StaticEvents\StaticEventHandler.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Door.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\Weapon.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffectSO.cs" />
     <Compile Include="Assets\Scripts\Minimap\Minimap.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffectSO.cs" />
+    <Compile Include="Assets\Scripts\AStar\AStarTest.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
     <Compile Include="Assets\Scripts\Misc\SingletonMonobehaviour.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffect.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
+    <Compile Include="Assets\Scripts\AStar\Node.cs" />
     <Compile Include="Assets\Scripts\Misc\CinemachineTarget.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameResources.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\IFireable.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponFiredEvent.cs" />
     <Compile Include="Assets\Scripts\PoolManager\PoolManager.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffect.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffectManager.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocity.cs" />
@@ -95,6 +104,7 @@
     <Compile Include="Assets\Scripts\Dungeon\RoomTemplateSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponReloadedEvent.cs" />
     <Compile Include="Assets\Scripts\Utilities\HelperUtilities.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
     <Compile Include="Assets\Scripts\Player\CurrentPlayerSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\ReloadWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerControl.cs" />
@@ -112,16 +122,6 @@
     <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffectSO.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffect.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffectSO.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoHitEffect.cs" />
-    <Compile Include="Assets\Scripts\Enemies\EnemyDetailsSO.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
-    <Compile Include="Assets\Scripts\AStar\Node.cs" />
-    <Compile Include="Assets\Scripts\AStar\GridNodes.cs" />
-    <Compile Include="Assets\Scripts\AStar\AStar.cs" />
-    <Compile Include="Assets\Scripts\AStar\AStarTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
