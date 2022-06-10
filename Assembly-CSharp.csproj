@@ -130,6 +130,7 @@
     <Compile Include="Assets\Scripts\Enemies\SpawnTest.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomEnemySpawnParameters.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\Effects\MaterializeEffect.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

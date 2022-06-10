@@ -339,6 +339,7 @@
 "Assets/Scripts/Dungeon/RoomEnemySpawnParameters.cs"
 "Assets/Scripts/Dungeon/RoomLightingControl.cs"
 "Assets/Scripts/Dungeon/RoomTemplateSO.cs"
+"Assets/Scripts/Effects/MaterializeEffect.cs"
 "Assets/Scripts/Enemies/AnimateEnemy.cs"
 "Assets/Scripts/Enemies/Enemy.cs"
 "Assets/Scripts/Enemies/EnemyDetailsSO.cs"
