@@ -326,6 +326,8 @@ GameObject:
   - component: {fileID: -5285806323747289484}
   - component: {fileID: 7259085322083317345}
   - component: {fileID: -7446616756306978356}
+  - component: {fileID: -1464705302838597981}
+  - component: {fileID: 6890417842751457037}
   m_Layer: 10
   m_Name: Player
   m_TagString: Player
@@ -362,6 +364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isDamageable: 1
+  enemy: {fileID: 0}
 --- !u!210 &2772427478080217286
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -541,7 +544,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerDetails: {fileID: 0}
+  healthEvent: {fileID: 0}
   health: {fileID: 0}
+  destroyedEvent: {fileID: 0}
+  playerControl: {fileID: 0}
   movementByVelocityEvent: {fileID: 0}
   movementToPositionEvent: {fileID: 0}
   idleEvent: {fileID: 0}
@@ -628,6 +634,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementDetails: {fileID: 11400000, guid: ae2001c5ca8c5b84684acc9a1bec6bc0, type: 2}
+  isPlayerRolling: 0
 --- !u!114 &-1436613282518138075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -812,6 +819,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f50138c5fe155d42be0c995cde92917, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-1464705302838597981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2772427478080217293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 548729176ee6d454c9adf4ecc548c627, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contactDamageAmount: 10
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 131072
+--- !u!114 &6890417842751457037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2772427478080217293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f33889abf68150498c8099cea76d2d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contactDamageAmount: 0
 --- !u!1 &4443637242754623065
 GameObject:
   m_ObjectHideFlags: 0

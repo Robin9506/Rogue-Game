@@ -15,11 +15,11 @@ G:/UnityProjects/DungeonGameUdemy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49656
+64621
 Successfully changed project path to: G:/UnityProjects/DungeonGameUdemy
 G:/UnityProjects/DungeonGameUdemy
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 83.98 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 82.67 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -36,382 +36,114 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56728
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001986 seconds.
+Registered in 0.001687 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 78.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 74.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.235 seconds
+- Completed reload, in  0.960 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001943 seconds.
+Registered in 0.001216 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 85.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 75.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.956 seconds
+- Completed reload, in  0.875 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2303 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 121.4 MB.
-System memory in use after: 121.5 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2761.
-Total: 2.141500 ms (FindLiveObjects: 0.229600 ms CreateObjectMapping: 0.113300 ms MarkObjects: 1.707200 ms  DeleteObjects: 0.090400 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts/Enemies/AnimateEnemy.cs
-  artifactKey: Guid(e920b75c77a92c2428cebf3f65dd31e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/AnimateEnemy.cs using Guid(e920b75c77a92c2428cebf3f65dd31e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a873214ee7f7af09065c4d4c77a2106') in 0.113101 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 251.453334 seconds.
-  path: Assets/Scripts/Enemies/EnemyDetailsSO.cs
-  artifactKey: Guid(3dd2aeee1abfe8f4db72ca7b82fd58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/EnemyDetailsSO.cs using Guid(3dd2aeee1abfe8f4db72ca7b82fd58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a530e9fea20d95fb60550c3b290c56') in 0.007148 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001247 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.690 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2172 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.3 MB.
-System memory in use after: 112.5 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2763.
-Total: 1.863200 ms (FindLiveObjects: 0.192600 ms CreateObjectMapping: 0.104100 ms MarkObjects: 1.515600 ms  DeleteObjects: 0.050200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 221.321278 seconds.
-  path: Assets/Scripts/Enemies/EnemyDetailsSO.cs
-  artifactKey: Guid(3dd2aeee1abfe8f4db72ca7b82fd58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/EnemyDetailsSO.cs using Guid(3dd2aeee1abfe8f4db72ca7b82fd58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e93f18c7a15799e144dd5c940ff55c') in 0.003834 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001317 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.689 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2172 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.4 MB.
-System memory in use after: 112.6 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2765.
-Total: 1.899900 ms (FindLiveObjects: 0.219700 ms CreateObjectMapping: 0.127200 ms MarkObjects: 1.505900 ms  DeleteObjects: 0.046000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.478796 seconds.
-  path: Assets/Scripts/Enemies/Enemy.cs
-  artifactKey: Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/Enemy.cs using Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15363e3167ded04938243ae69788460') in 0.010014 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.945241 seconds.
-  path: Assets/Scripts/Enemies/EnemyWeaponAI.cs
-  artifactKey: Guid(eea58a6ee53058743b8f30f85191a287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/EnemyWeaponAI.cs using Guid(eea58a6ee53058743b8f30f85191a287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea63d9c71b59b724f307759c95c8180b') in 0.004740 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001338 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.732 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.4 MB.
-System memory in use after: 112.6 MB.
+Unloading 2308 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.5 MB.
+System memory in use after: 121.7 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2768.
-Total: 2.022200 ms (FindLiveObjects: 0.196000 ms CreateObjectMapping: 0.115300 ms MarkObjects: 1.655700 ms  DeleteObjects: 0.054400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001264 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.690 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.4 MB.
-System memory in use after: 112.6 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2770.
-Total: 1.878600 ms (FindLiveObjects: 0.191800 ms CreateObjectMapping: 0.100900 ms MarkObjects: 1.535600 ms  DeleteObjects: 0.049100 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2766.
+Total: 2.596000 ms (FindLiveObjects: 0.189800 ms CreateObjectMapping: 0.098700 ms MarkObjects: 2.233600 ms  DeleteObjects: 0.073000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 81.842963 seconds.
-  path: Assets/Scripts/Enemies/EnemyWeaponAI.cs
-  artifactKey: Guid(eea58a6ee53058743b8f30f85191a287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/EnemyWeaponAI.cs using Guid(eea58a6ee53058743b8f30f85191a287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088da243c51665ad4bc5c7ede0be4aad') in 0.003607 seconds 
+  path: Assets/Prefabs/UI/Heart.prefab
+  artifactKey: Guid(a5ee9c8e3d2885c408d36fa488ea4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI/Heart.prefab using Guid(a5ee9c8e3d2885c408d36fa488ea4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ec1a1304b04d095f897ecdb729f02c') in 0.044311 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/Scripts/Enemies/EnemyMovementAI.cs
-  artifactKey: Guid(47f2d2dfe9f20d442a8e210e00b6f5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/EnemyMovementAI.cs using Guid(47f2d2dfe9f20d442a8e210e00b6f5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a4e5fd65bf97d26ebf1f4b8f575a82') in 0.001572 seconds 
+  Time since last request: 21.737345 seconds.
+  path: Assets/Prefabs/UI/Heart.prefab
+  artifactKey: Guid(a5ee9c8e3d2885c408d36fa488ea4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI/Heart.prefab using Guid(a5ee9c8e3d2885c408d36fa488ea4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6826081b7817cbc24aab3b365f59a08e') in 0.019312 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001210 seconds.
+Registered in 0.001195 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.736 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2172 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.3 MB.
-System memory in use after: 112.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2771.
-Total: 1.924900 ms (FindLiveObjects: 0.226800 ms CreateObjectMapping: 0.118500 ms MarkObjects: 1.517800 ms  DeleteObjects: 0.060800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001882 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.736 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.4 MB.
-System memory in use after: 112.6 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2774.
-Total: 1.777700 ms (FindLiveObjects: 0.181900 ms CreateObjectMapping: 0.099200 ms MarkObjects: 1.447300 ms  DeleteObjects: 0.048600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001232 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.685 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.5 MB.
-System memory in use after: 112.6 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2776.
-Total: 1.891900 ms (FindLiveObjects: 0.190600 ms CreateObjectMapping: 0.115800 ms MarkObjects: 1.521100 ms  DeleteObjects: 0.063200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 566.833073 seconds.
-  path: Assets/Scripts/Enemies/EnemyWeaponAI.cs
-  artifactKey: Guid(eea58a6ee53058743b8f30f85191a287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/EnemyWeaponAI.cs using Guid(eea58a6ee53058743b8f30f85191a287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b4d08a2ed8951101ee787fc71d01b3') in 0.003529 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001450 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.30 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.832 seconds
-Platform modules already initialized, skipping
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.5 MB.
-System memory in use after: 112.7 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2778.
-Total: 2.721200 ms (FindLiveObjects: 0.309900 ms CreateObjectMapping: 0.285700 ms MarkObjects: 2.072200 ms  DeleteObjects: 0.052500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 95.186070 seconds.
-  path: Assets/Prefabs/Enemies/Enemy.prefab
-  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e5a1944400c9a7496bb8f3f5dcbe9f') in 0.237763 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.071475 seconds.
-  path: Assets/Prefabs/Enemies/Enemy.prefab
-  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b) weaponShootPosition is null and must contain a value in object Enemy
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
-EnemyWeaponAI:OnValidate () (at Assets/Scripts/Enemies/EnemyWeaponAI.cs:135)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
-
- -> (artifact id: 'bc46a13dfb7cd0aa3b263d8c73ad40a3') in 0.008615 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.042442 seconds.
-  path: Assets/Prefabs/Enemies/Enemy.prefab
-  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b) weaponShootPosition is null and must contain a value in object Enemy
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
-EnemyWeaponAI:OnValidate () (at Assets/Scripts/Enemies/EnemyWeaponAI.cs:135)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
-
- -> (artifact id: 'a6c3a0815ad88b638f371c4d4e24810e') in 0.007963 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.681996 seconds.
-  path: Assets/Prefabs/Enemies/Enemy.prefab
-  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b) weaponShootPosition is null and must contain a value in object Enemy
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
-EnemyWeaponAI:OnValidate () (at Assets/Scripts/Enemies/EnemyWeaponAI.cs:135)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
-
- -> (artifact id: '0c4ba33680467ca08262442bc77a2d1d') in 0.007925 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.330876 seconds.
-  path: Assets/Prefabs/Enemies/Enemy.prefab
-  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b) weaponShootPosition is null and must contain a value in object Enemy
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-HelperUtilities:ValidateCheckNullValue (UnityEngine.Object,string,UnityEngine.Object) (at Assets/Scripts/Utilities/HelperUtilities.cs:109)
-EnemyWeaponAI:OnValidate () (at Assets/Scripts/Enemies/EnemyWeaponAI.cs:135)
-
-(Filename: Assets/Scripts/Utilities/HelperUtilities.cs Line: 109)
-
- -> (artifact id: 'c05a21493cb7cbe47f403dba0ad53235') in 0.006865 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001209 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.735 seconds
+- Completed reload, in  0.706 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 120.5 MB.
-System memory in use after: 120.6 MB.
+Unloading 2177 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 114.4 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2827.
-Total: 2.184200 ms (FindLiveObjects: 0.186300 ms CreateObjectMapping: 0.102100 ms MarkObjects: 1.837400 ms  DeleteObjects: 0.057100 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2768.
+Total: 1.801200 ms (FindLiveObjects: 0.188300 ms CreateObjectMapping: 0.100300 ms MarkObjects: 1.463500 ms  DeleteObjects: 0.048100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 375.051421 seconds.
-  path: Assets/Scripts/Enemies/Enemy.cs
-  artifactKey: Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/Enemy.cs using Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7545a6b7f1dae7c22bb7dceca489fe65') in 0.003835 seconds 
+  Time since last request: 123.107142 seconds.
+  path: Assets/Scripts/Misc/Settings.cs
+  artifactKey: Guid(10f0bbf8a7584ef4695b0faff8fc189f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Misc/Settings.cs using Guid(10f0bbf8a7584ef4695b0faff8fc189f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5b546ab5557f57c46ee8d6546544ba') in 0.005925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.389360 seconds.
+  path: Assets/Prefabs/GameResources/Resources/GameResources.prefab
+  artifactKey: Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameResources/Resources/GameResources.prefab using Guid(ae7d5950e5072754ca88496c45ee3e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa8e37c4bde5e02ce30910f846b1307') in 0.081647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.302989 seconds.
+  path: Assets/Scripts/UI/HealthUI.cs
+  artifactKey: Guid(3e2ccef49f2b7b34c81a9a63b5e98982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/HealthUI.cs using Guid(3e2ccef49f2b7b34c81a9a63b5e98982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcba774eb597b1e2fcfe96a40d0d05f') in 0.004709 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001191 seconds.
+Registered in 0.001682 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.703 seconds
+- Completed reload, in  0.713 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 119.3 MB.
-System memory in use after: 119.5 MB.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.5 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2829.
-Total: 2.004600 ms (FindLiveObjects: 0.211500 ms CreateObjectMapping: 0.099800 ms MarkObjects: 1.644100 ms  DeleteObjects: 0.047900 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2771.
+Total: 1.799100 ms (FindLiveObjects: 0.173500 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.486800 ms  DeleteObjects: 0.042000 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 163.384823 seconds.
-  path: Assets/Scripts/Enemies/AnimateEnemy.cs
-  artifactKey: Guid(e920b75c77a92c2428cebf3f65dd31e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemies/AnimateEnemy.cs using Guid(e920b75c77a92c2428cebf3f65dd31e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099d1a309e9a29e999a8150b4c1ca46a') in 0.003921 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001631 seconds.
+Registered in 0.001421 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
@@ -422,442 +154,560 @@ Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2173 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.3 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2773.
+Total: 2.226700 ms (FindLiveObjects: 0.227600 ms CreateObjectMapping: 0.154600 ms MarkObjects: 1.786900 ms  DeleteObjects: 0.056500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.955188 seconds.
+  path: Assets/Scripts/UI/HealthUI.cs
+  artifactKey: Guid(3e2ccef49f2b7b34c81a9a63b5e98982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/HealthUI.cs using Guid(3e2ccef49f2b7b34c81a9a63b5e98982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a9c2e8b782d885f92ff2a790989be0') in 0.003783 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001226 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.5 MB.
+System memory in use after: 112.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2775.
+Total: 2.183300 ms (FindLiveObjects: 0.208200 ms CreateObjectMapping: 0.106000 ms MarkObjects: 1.807200 ms  DeleteObjects: 0.060800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.5 MB.
+System memory in use after: 112.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2777.
+Total: 1.859700 ms (FindLiveObjects: 0.183400 ms CreateObjectMapping: 0.101600 ms MarkObjects: 1.530100 ms  DeleteObjects: 0.043900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.674 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.6 MB.
+System memory in use after: 112.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2779.
+Total: 1.842300 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.107100 ms MarkObjects: 1.502600 ms  DeleteObjects: 0.044500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.683 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.3 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2781.
+Total: 1.842000 ms (FindLiveObjects: 0.199700 ms CreateObjectMapping: 0.104100 ms MarkObjects: 1.495300 ms  DeleteObjects: 0.042200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001240 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.3 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2783.
+Total: 1.796000 ms (FindLiveObjects: 0.180400 ms CreateObjectMapping: 0.097700 ms MarkObjects: 1.472300 ms  DeleteObjects: 0.044700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.453546 seconds.
+  path: Assets/Scripts/Weapons/Ammo/Ammo.cs
+  artifactKey: Guid(00a39b93495d1c544b62fa6a42f46757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Weapons/Ammo/Ammo.cs using Guid(00a39b93495d1c544b62fa6a42f46757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5ffe025328ce6d074e10ea72dbfd37') in 0.009783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.186182 seconds.
+  path: Assets/Scripts/Player/PlayerControl.cs
+  artifactKey: Guid(5b46e64b20140564c92a8aed8126ca26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/PlayerControl.cs using Guid(5b46e64b20140564c92a8aed8126ca26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b7dcc07b67a2a3c3743387b96ac6c9') in 0.005197 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001301 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.724 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.3 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2785.
+Total: 1.805400 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.097100 ms MarkObjects: 1.483500 ms  DeleteObjects: 0.043400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.804841 seconds.
+  path: Assets/Scripts/Player/PlayerControl.cs
+  artifactKey: Guid(5b46e64b20140564c92a8aed8126ca26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/PlayerControl.cs using Guid(5b46e64b20140564c92a8aed8126ca26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7712db7aad31c0a91d0871d076c623') in 0.003638 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.664 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.5 MB.
+System memory in use after: 112.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2787.
+Total: 2.019300 ms (FindLiveObjects: 0.187400 ms CreateObjectMapping: 0.098000 ms MarkObjects: 1.687300 ms  DeleteObjects: 0.045100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.3 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2789.
+Total: 1.800100 ms (FindLiveObjects: 0.180100 ms CreateObjectMapping: 0.110400 ms MarkObjects: 1.468700 ms  DeleteObjects: 0.040300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.3 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2791.
+Total: 1.962700 ms (FindLiveObjects: 0.254600 ms CreateObjectMapping: 0.122200 ms MarkObjects: 1.536300 ms  DeleteObjects: 0.048200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.281057 seconds.
+  path: Assets/Scripts/Player/PlayerDetailsSO.cs
+  artifactKey: Guid(6f389c7527888b74b8f8c5d29b7c4a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/PlayerDetailsSO.cs using Guid(6f389c7527888b74b8f8c5d29b7c4a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd51e9e956ecd698311832a5fa4c97b0') in 0.009417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.362818 seconds.
+  path: Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab
+  artifactKey: Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/TheGeneral/TheGeneral.prefab using Guid(9ca1c1aa18e26dc40a47aade4f6ea104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f88db031061f5a3c8aa42ae7c46b41') in 0.241060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.436382 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheThief.asset
+  artifactKey: Guid(eb8c01d70ace08b4c9ab6d6c7d8764c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheThief.asset using Guid(eb8c01d70ace08b4c9ab6d6c7d8764c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfa7d59ac87b8b950390b020b01e0a2') in 0.026811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.113874 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheScientist.asset
+  artifactKey: Guid(010ba537b2dde8a4fb0ecd627a804e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheScientist.asset using Guid(010ba537b2dde8a4fb0ecd627a804e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460738da2886e7fc60da2e6f83a322c6') in 0.020257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.563802 seconds.
+  path: Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheScientist.asset
+  artifactKey: Guid(010ba537b2dde8a4fb0ecd627a804e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptableObjectAssets/Player/PlayerDetails/PlayerDetails_TheScientist.asset using Guid(010ba537b2dde8a4fb0ecd627a804e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a09223c6d17432f701fbd2a4e0f3f0') in 0.014895 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.6 MB.
+System memory in use after: 120.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2840.
+Total: 1.916300 ms (FindLiveObjects: 0.183500 ms CreateObjectMapping: 0.094800 ms MarkObjects: 1.591200 ms  DeleteObjects: 0.046100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001276 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2178 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2842.
+Total: 2.025100 ms (FindLiveObjects: 0.198800 ms CreateObjectMapping: 0.138500 ms MarkObjects: 1.641000 ms  DeleteObjects: 0.046200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.911459 seconds.
+  path: Assets/Scripts/Health/ReceiveContactDamage.cs
+  artifactKey: Guid(1f33889abf68150498c8099cea76d2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Health/ReceiveContactDamage.cs using Guid(1f33889abf68150498c8099cea76d2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f818115b6791862cee42ad28febf1a') in 0.008261 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2179 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2845.
+Total: 2.162900 ms (FindLiveObjects: 0.189600 ms CreateObjectMapping: 0.100900 ms MarkObjects: 1.818900 ms  DeleteObjects: 0.052400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2179 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 119.4 MB.
 System memory in use after: 119.6 MB.
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2831.
-Total: 1.883200 ms (FindLiveObjects: 0.186400 ms CreateObjectMapping: 0.096800 ms MarkObjects: 1.552900 ms  DeleteObjects: 0.046400 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 2.067800 ms (FindLiveObjects: 0.198100 ms CreateObjectMapping: 0.104800 ms MarkObjects: 1.715100 ms  DeleteObjects: 0.048800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 843.905531 seconds.
-  path: Assets/Prefabs/Ammo/PlayerAmmo7x7 1.prefab
-  artifactKey: Guid(f0b89d620412d0147882751ae7b8d973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ammo/PlayerAmmo7x7 1.prefab using Guid(f0b89d620412d0147882751ae7b8d973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8beb7e642e9db6ec8646b7b875d10a95') in 0.152362 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.683427 seconds.
-  path: Assets/Prefabs/Ammo/EnemyAmmo.prefab
-  artifactKey: Guid(f0b89d620412d0147882751ae7b8d973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ammo/EnemyAmmo.prefab using Guid(f0b89d620412d0147882751ae7b8d973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83bf8f263fbb0f6112f2b7806c8e4b25') in 0.008762 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 101.473460 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy
-  artifactKey: Guid(f69b81c2170d6c04b85939a258d944fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy using Guid(f69b81c2170d6c04b85939a258d944fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5f992ff748fa567562d656be26ee1d') in 0.001563 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.642396 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Player/MP7 1
-  artifactKey: Guid(02721b0a2d384704eb084ebbeb4c30f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Player/MP7 1 using Guid(02721b0a2d384704eb084ebbeb4c30f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd301d55773b5de1ed77b4e68b2f72925') in 0.004591 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.021755 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss
-  artifactKey: Guid(02721b0a2d384704eb084ebbeb4c30f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss using Guid(02721b0a2d384704eb084ebbeb4c30f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7aadd97a087cdcb8f036d11ab716d9') in 0.004448 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.970136 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/AmmoDetails_MP7.asset
-  artifactKey: Guid(297d724d878ce524487c0e27d7726d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/AmmoDetails_MP7.asset using Guid(297d724d878ce524487c0e27d7726d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d123dacdc535d188779ec7f7f0b98e0') in 0.011691 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.393989 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/AmmoDetails_MP7_Boss.asset
-  artifactKey: Guid(297d724d878ce524487c0e27d7726d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/AmmoDetails_MP7_Boss.asset using Guid(297d724d878ce524487c0e27d7726d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558b8ae286768e768225a47c81c6bcee') in 0.007658 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.039197 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Fire.asset
-  artifactKey: Guid(a785d749b2305d943b2c02f650071287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Fire.asset using Guid(a785d749b2305d943b2c02f650071287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d916f93192842bf739711c9c00b7109') in 0.005667 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.339818 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Boss_Fire.asset
-  artifactKey: Guid(a785d749b2305d943b2c02f650071287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Boss_Fire.asset using Guid(a785d749b2305d943b2c02f650071287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d26e0ec497d19b2b363dc934177287a') in 0.005117 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.030444 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Reload.asset
-  artifactKey: Guid(64408600ac93ba349be0bb657303f491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Reload.asset using Guid(64408600ac93ba349be0bb657303f491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501870fa3cee92f39e032a1f2291449f') in 0.004922 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.117941 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Boss_Reload.asset
-  artifactKey: Guid(64408600ac93ba349be0bb657303f491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/SoundEffect_MP7_Boss_Reload.asset using Guid(64408600ac93ba349be0bb657303f491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0212487ff8ca5a82d83a19850766d94') in 0.005073 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.011025 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponDetails_MP7.asset
-  artifactKey: Guid(c4213f05c4c80434fb83662419df8b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponDetails_MP7.asset using Guid(c4213f05c4c80434fb83662419df8b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712cf379414470295186db6bb1b1e3c4') in 0.008491 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.008711 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponDetails_MP7_Boss.asset
-  artifactKey: Guid(c4213f05c4c80434fb83662419df8b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponDetails_MP7_Boss.asset using Guid(c4213f05c4c80434fb83662419df8b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52ee4fea2acfa0de6fbf954600e7267') in 0.007566 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.020477 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponShootEffect_MP7.asset
-  artifactKey: Guid(263f0b0567b9b744ba0ea4581117ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponShootEffect_MP7.asset using Guid(263f0b0567b9b744ba0ea4581117ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c153dc513f520e5cd761f87903052e49') in 0.005818 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.592104 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponShootEffect_MP7_Boss.asset
-  artifactKey: Guid(263f0b0567b9b744ba0ea4581117ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/WeaponShootEffect_MP7_Boss.asset using Guid(263f0b0567b9b744ba0ea4581117ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdcd8fc9de82dbae4ce08bee462eaea') in 0.005475 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 164.234609 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Player/Pistol 1
-  artifactKey: Guid(c66eb47cccb45ef4d89e4e654b09922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Player/Pistol 1 using Guid(c66eb47cccb45ef4d89e4e654b09922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084697f1cce6e18560327a927865acee') in 0.005023 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.238842 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss
-  artifactKey: Guid(c66eb47cccb45ef4d89e4e654b09922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss using Guid(c66eb47cccb45ef4d89e4e654b09922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5088cd4c658c027479199b3f0702977') in 0.004368 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.570083 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoDetails_Pistol.asset
-  artifactKey: Guid(0bde43c494f241848aaa34181b77c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoDetails_Pistol.asset using Guid(0bde43c494f241848aaa34181b77c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf18c65938396fccc3490618cac85a1') in 0.006089 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.351944 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoDetails_Pistol_Boss.asset
-  artifactKey: Guid(0bde43c494f241848aaa34181b77c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoDetails_Pistol_Boss.asset using Guid(0bde43c494f241848aaa34181b77c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe25af74fe59c407bb137765616272b0') in 0.005784 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.341858 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoHitEffect_Pistol.asset
-  artifactKey: Guid(11018748d0b671546b859235b6051f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoHitEffect_Pistol.asset using Guid(11018748d0b671546b859235b6051f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b1c5e34fa1edc10d7d064471908177') in 0.006871 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.840708 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoHitEffect_Pistol_Boss.asset
-  artifactKey: Guid(11018748d0b671546b859235b6051f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoHitEffect_Pistol_Boss.asset using Guid(11018748d0b671546b859235b6051f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b8d34233e56f27f143cf9a90db9974') in 0.005241 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.033662 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Fire.asset
-  artifactKey: Guid(5fc8e3caed14c984889c8580d9812218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Fire.asset using Guid(5fc8e3caed14c984889c8580d9812218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20a330c22c70df1cb64d9f13c3d6ef0') in 0.005034 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.551444 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Fire_Boss.asset
-  artifactKey: Guid(5fc8e3caed14c984889c8580d9812218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Fire_Boss.asset using Guid(5fc8e3caed14c984889c8580d9812218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320093fb2595249d35182b7e1401e5b0') in 0.005280 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.022971 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Reload.asset
-  artifactKey: Guid(382f9c44da4edc147ac271025a048544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Reload.asset using Guid(382f9c44da4edc147ac271025a048544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c150326fa61722b9cb0485249b06a15') in 0.005056 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.212767 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Reload_Boss.asset
-  artifactKey: Guid(382f9c44da4edc147ac271025a048544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/SoundEffect_Pistol_Reload_Boss.asset using Guid(382f9c44da4edc147ac271025a048544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782da7b3f0eb2eef9a037df63a3ff094') in 0.006101 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.011655 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponShootEffect_Pistol.asset
-  artifactKey: Guid(8ca8ebebdcfde0a46894be17761fc019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponShootEffect_Pistol.asset using Guid(8ca8ebebdcfde0a46894be17761fc019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5424cb6be21eb9322d3409ed71e1031') in 0.008188 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.539294 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponDetails_Pistol.asset
-  artifactKey: Guid(7e2f355a05a96ed4fa6ea4c9eabe6953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponDetails_Pistol.asset using Guid(7e2f355a05a96ed4fa6ea4c9eabe6953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2893a8959d4bf4f87178e7e9b9936756') in 0.007934 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.393898 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponDetails_Pistol_Boss.asset
-  artifactKey: Guid(7e2f355a05a96ed4fa6ea4c9eabe6953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponDetails_Pistol_Boss.asset using Guid(7e2f355a05a96ed4fa6ea4c9eabe6953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62389063603e9bef7352ed43a81ee5f') in 0.007670 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.756588 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponShootEffect_Pistol_Boss.asset
-  artifactKey: Guid(8ca8ebebdcfde0a46894be17761fc019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/WeaponShootEffect_Pistol_Boss.asset using Guid(8ca8ebebdcfde0a46894be17761fc019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9edf866f52dd06af5fb14dc14c9677') in 0.005446 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 121.338396 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Player/Shotgun 1
-  artifactKey: Guid(16029fc4676c9c046b876b0902822b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Player/Shotgun 1 using Guid(16029fc4676c9c046b876b0902822b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabfc46098f5c449d2020bff82e18fcd') in 0.004537 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.680543 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/AmmoDetails_MP7_Boss.asset
-  artifactKey: Guid(297d724d878ce524487c0e27d7726d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/MP7_Boss/AmmoDetails_MP7_Boss.asset using Guid(297d724d878ce524487c0e27d7726d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321251238b6b4d72bc6a1603d26fbe08') in 0.003541 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.752066 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoDetails_Pistol_Boss.asset
-  artifactKey: Guid(0bde43c494f241848aaa34181b77c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol Boss/AmmoDetails_Pistol_Boss.asset using Guid(0bde43c494f241848aaa34181b77c60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66374415dd4d819f1fd4ab7ea9c5be9e') in 0.006978 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.028056 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol_Boss
-  artifactKey: Guid(c66eb47cccb45ef4d89e4e654b09922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol_Boss using Guid(c66eb47cccb45ef4d89e4e654b09922b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb76a7a4f53442eef5d6c3b4f045252') in 0.004197 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.991012 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss
-  artifactKey: Guid(16029fc4676c9c046b876b0902822b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss using Guid(16029fc4676c9c046b876b0902822b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a49c79566c13c0d3bbe45d828c42ee') in 0.004085 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.235369 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/AmmoDetails_Shotgun.asset
-  artifactKey: Guid(a9ec6fe33803ec34485988b89664e2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/AmmoDetails_Shotgun.asset using Guid(a9ec6fe33803ec34485988b89664e2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379670f09dd6e90cba513dbff546a478') in 0.006102 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.267808 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/AmmoDetails_Shotgun_Boss.asset
-  artifactKey: Guid(a9ec6fe33803ec34485988b89664e2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/AmmoDetails_Shotgun_Boss.asset using Guid(a9ec6fe33803ec34485988b89664e2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5b2baabd56cbad82e8e4e00b637f0a') in 0.006819 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.013989 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Fire.asset
-  artifactKey: Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Fire.asset using Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee84ea767e6b2625d6555f33559ba22a') in 0.005663 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.494779 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Shotgun_Boss.asset
-  artifactKey: Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Shotgun_Boss.asset using Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb295d56c10ba753124a028b1b7144e0') in 0.005060 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.891899 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Reload.asset
-  artifactKey: Guid(658d24195caa57948a1f22eff13aa3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Reload.asset using Guid(658d24195caa57948a1f22eff13aa3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4758590b0db065e2ef402188e17daf') in 0.004982 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.644399 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Boss_Reload.asset
-  artifactKey: Guid(658d24195caa57948a1f22eff13aa3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Boss_Reload.asset using Guid(658d24195caa57948a1f22eff13aa3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2529ac976982ed1087013f8f2e694f23') in 0.006613 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.468439 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Boss.asset
-  artifactKey: Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Boss.asset using Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6581e5bbdbb9faf2f42e729e0e9e1a') in 0.004806 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.848458 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponDetails_Shotgun.asset
-  artifactKey: Guid(a9bd04f58ad0bf4449da18cb596af513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponDetails_Shotgun.asset using Guid(a9bd04f58ad0bf4449da18cb596af513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19a6bf3081f854780c692b370963faf') in 0.008249 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.850178 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponDetailsShotgun_Boss.asset
-  artifactKey: Guid(a9bd04f58ad0bf4449da18cb596af513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponDetailsShotgun_Boss.asset using Guid(a9bd04f58ad0bf4449da18cb596af513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19f9a2816d01dd9fbe57c3121380425') in 0.007737 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.606450 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponShootEffect_Shotgun.asset
-  artifactKey: Guid(066a688f04fbe1543ab463649a57e6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponShootEffect_Shotgun.asset using Guid(066a688f04fbe1543ab463649a57e6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbfd16f7db3cf2bdfee4570668f30a9') in 0.005844 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.254359 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponShootEffect_Shotgun_Boss.asset
-  artifactKey: Guid(066a688f04fbe1543ab463649a57e6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponShootEffect_Shotgun_Boss.asset using Guid(066a688f04fbe1543ab463649a57e6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc7a41d022c082b6d227d1fbb531a01') in 0.005862 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.606116 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponDetails_Shotgun_Boss.asset
-  artifactKey: Guid(a9bd04f58ad0bf4449da18cb596af513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/WeaponDetails_Shotgun_Boss.asset using Guid(a9bd04f58ad0bf4449da18cb596af513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4538ffca225539d31b36a448f69aec0c') in 0.007657 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.600502 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Boss_Fire.asset
-  artifactKey: Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Shotgun_Boss/SoundEffect_Shotgun_Boss_Fire.asset using Guid(7d2ca7a633a9bef4686f454ef61aec14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4b1eb6efd580a10a7f708c9153aa61') in 0.005291 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 71.875256 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol_Boss 1
-  artifactKey: Guid(8d8a3b46be914be4592fc3f3db82e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol_Boss 1 using Guid(8d8a3b46be914be4592fc3f3db82e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa656b7a54a0a93a21dcc2b7892f131') in 0.004538 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.698977 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol
-  artifactKey: Guid(8d8a3b46be914be4592fc3f3db82e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol using Guid(8d8a3b46be914be4592fc3f3db82e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7082f7e112a86d4e1ca531778a11978a') in 0.004569 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.347505 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol_Boss.asset
-  artifactKey: Guid(235472927559091418bb8aa8bbf87d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol_Boss.asset using Guid(235472927559091418bb8aa8bbf87d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b06654e4f71d70676daf85ab027c369') in 0.003489 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.800797 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol.asset
-  artifactKey: Guid(235472927559091418bb8aa8bbf87d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol.asset using Guid(235472927559091418bb8aa8bbf87d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67f3057dbd0d2fc13126641ed120813') in 0.003230 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.027109 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoHitEffect_Pistol_Boss.asset
-  artifactKey: Guid(1739129889f9b714583fd4e7d88078b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoHitEffect_Pistol_Boss.asset using Guid(1739129889f9b714583fd4e7d88078b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e096274e8941e90f68b3a76664fbf9a9') in 0.002383 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.621628 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol_Enemy.asset
-  artifactKey: Guid(235472927559091418bb8aa8bbf87d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoDetails_Pistol_Enemy.asset using Guid(235472927559091418bb8aa8bbf87d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4e09e970a08ea1733ea8d05d421d46') in 0.006104 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.370450 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoHitEffect_Pistol_Enemy.asset
-  artifactKey: Guid(1739129889f9b714583fd4e7d88078b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/AmmoHitEffect_Pistol_Enemy.asset using Guid(1739129889f9b714583fd4e7d88078b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb3f4b99037591fb0daf3bfafb865b2') in 0.005377 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.033752 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Fire_Boss.asset
-  artifactKey: Guid(075ea61e30a19324fb5047b68344db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Fire_Boss.asset using Guid(075ea61e30a19324fb5047b68344db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377ce3c62195cf24b0278a54445aa350') in 0.004761 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.000918 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Fire_Enemy.asset
-  artifactKey: Guid(075ea61e30a19324fb5047b68344db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Fire_Enemy.asset using Guid(075ea61e30a19324fb5047b68344db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a186f4b3c26476817fba56abb246153') in 0.005110 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.038877 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Reload_Boss.asset
-  artifactKey: Guid(bb847e7468e04994689f8e05585a272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Reload_Boss.asset using Guid(bb847e7468e04994689f8e05585a272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e2aaa4471f278d235a3a821bd466c9') in 0.004860 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.110365 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Reload_Enemy.asset
-  artifactKey: Guid(bb847e7468e04994689f8e05585a272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/SoundEffect_Pistol_Reload_Enemy.asset using Guid(bb847e7468e04994689f8e05585a272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e4355d69888b872e5058745f5f099f') in 0.004917 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.043970 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponDetails_Pistol_Boss.asset
-  artifactKey: Guid(fcf20e1f10f4552468cbdf29551a36c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponDetails_Pistol_Boss.asset using Guid(fcf20e1f10f4552468cbdf29551a36c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfdb93b171cd4055cd9ab1275cc2465') in 0.005101 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.745444 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponDetails_Pistol_Enemy.asset
-  artifactKey: Guid(fcf20e1f10f4552468cbdf29551a36c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponDetails_Pistol_Enemy.asset using Guid(fcf20e1f10f4552468cbdf29551a36c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8617879d06617937a6d9c6dcdbc00a1') in 0.007840 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.035593 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponShootEffect_Pistol_Boss.asset
-  artifactKey: Guid(b02476e63f2a63a4f95fc562783c6847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponShootEffect_Pistol_Boss.asset using Guid(b02476e63f2a63a4f95fc562783c6847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3800f877ce5a10867923e710cf4db3') in 0.002547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.369279 seconds.
-  path: Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponShootEffect_Pistol_Enemy.asset
-  artifactKey: Guid(b02476e63f2a63a4f95fc562783c6847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Weapons/Enemy/Pistol/WeaponShootEffect_Pistol_Enemy.asset using Guid(b02476e63f2a63a4f95fc562783c6847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748c87e0509da336ce1b6265875596d5') in 0.005540 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 140.499637 seconds.
-  path: Assets/ScriptableObjectAssets/Bosses/SkullFace/Green/EnemyDetails_SkullFace_Green_Pistol.asset
-  artifactKey: Guid(be50aac1f61e71648aee4f800aa5ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Bosses/SkullFace/Green/EnemyDetails_SkullFace_Green_Pistol.asset using Guid(be50aac1f61e71648aee4f800aa5ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e184304f4cdec0f9412fc22e79a837f5') in 0.009747 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 53.276908 seconds.
-  path: Assets/ScriptableObjectAssets/Bosses/SkullFace/Red/EnemyDetails_SkullFace_Red_Shotgun.asset
-  artifactKey: Guid(0535824606fe5a94792bd2910192be3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Bosses/SkullFace/Red/EnemyDetails_SkullFace_Red_Shotgun.asset using Guid(0535824606fe5a94792bd2910192be3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb24f58d2b8eb8477f2c252036d17095') in 0.007099 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.488441 seconds.
-  path: Assets/ScriptableObjectAssets/Bosses/SkullFace/White/EnemyDetails_SkullFace_White_MP7.asset
-  artifactKey: Guid(dca9c70e5d89c3e42aa64681174ca637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Bosses/SkullFace/White/EnemyDetails_SkullFace_White_MP7.asset using Guid(dca9c70e5d89c3e42aa64681174ca637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e3bb4b729e4fabfdf1fff6a5894617') in 0.006465 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.433617 seconds.
-  path: Assets/ScriptableObjectAssets/Bosses/SlimeBlockKing/Blue/EnemyDetails_SlimeBlockKing_Blue_MP7.asset
-  artifactKey: Guid(f8463bd391ae24041a3c6db3072fabc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Bosses/SlimeBlockKing/Blue/EnemyDetails_SlimeBlockKing_Blue_MP7.asset using Guid(f8463bd391ae24041a3c6db3072fabc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3569cad5080361fd31ba6256e1a13d77') in 0.006532 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.558412 seconds.
-  path: Assets/ScriptableObjectAssets/Bosses/SlimeBlockKing/Green/EnemyDetails_SlimeBlockKing_Green_Shotgun.asset
-  artifactKey: Guid(87d0552a57342174e9a87b5d4807fbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Bosses/SlimeBlockKing/Green/EnemyDetails_SlimeBlockKing_Green_Shotgun.asset using Guid(87d0552a57342174e9a87b5d4807fbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38bd184e98d70dfe34bc83812bd5ffd') in 0.009353 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.780721 seconds.
-  path: Assets/ScriptableObjectAssets/Bosses/SlimeBlockKing/Red/EnemyDetails_SlimeBlockKing_Red_Pistol.asset
-  artifactKey: Guid(8b8b9b25ff42d994dab240aa2166226e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Bosses/SlimeBlockKing/Red/EnemyDetails_SlimeBlockKing_Red_Pistol.asset using Guid(8b8b9b25ff42d994dab240aa2166226e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f46c7892fccd6bb70c7480129b2e575') in 0.006065 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27.233102 seconds.
-  path: Assets/ScriptableObjectAssets/Enemy/Grimonk/Brown/EnemyDetails_Grimonk.asset
-  artifactKey: Guid(87646aef80cbb264584064921aa04838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Enemy/Grimonk/Brown/EnemyDetails_Grimonk.asset using Guid(87646aef80cbb264584064921aa04838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc3ed72608bab7858163b957d9fa1dd') in 0.008666 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 43.630399 seconds.
-  path: Assets/ScriptableObjectAssets/Enemy/MudRock/Brown/EnemyDetails_MudRock_Brown.asset
-  artifactKey: Guid(280722dcc2e74ed45b5490fe6e49694b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Enemy/MudRock/Brown/EnemyDetails_MudRock_Brown.asset using Guid(280722dcc2e74ed45b5490fe6e49694b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d3159527f0983a5faedd091acdfec2') in 0.007051 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.974049 seconds.
-  path: Assets/ScriptableObjectAssets/Enemy/Orc/Green/EnemyDetails_Orc_Green.asset
-  artifactKey: Guid(31c51e46a536479419162091b9c25448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Enemy/Orc/Green/EnemyDetails_Orc_Green.asset using Guid(31c51e46a536479419162091b9c25448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde4118b102b43c96f46540cbbe2c2c5') in 0.010378 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 20.410860 seconds.
-  path: Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Red/EnemyDetails_SlimeBlock_Red.asset
-  artifactKey: Guid(a5cf40fa80a5a414e9eccd0f5a83d3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ScriptableObjectAssets/Enemy/SlimeBlock/Red/EnemyDetails_SlimeBlock_Red.asset using Guid(a5cf40fa80a5a414e9eccd0f5a83d3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068dda08d244d9800824e5d0668c3911') in 0.006106 seconds 
+  Time since last request: 78.985301 seconds.
+  path: Assets/Scripts/Health/ReceiveContactDamage.cs
+  artifactKey: Guid(1f33889abf68150498c8099cea76d2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Health/ReceiveContactDamage.cs using Guid(1f33889abf68150498c8099cea76d2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9834a41b38ff85e0bf1ab3090632abfc') in 0.003676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.307384 seconds.
+  path: Assets/Scripts/Health/DealContactDamage.cs
+  artifactKey: Guid(548729176ee6d454c9adf4ecc548c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Health/DealContactDamage.cs using Guid(548729176ee6d454c9adf4ecc548c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02db2c4c12f3f80cdf2b5469c2f20233') in 0.006102 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001153 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2850.
+Total: 1.960600 ms (FindLiveObjects: 0.204400 ms CreateObjectMapping: 0.111500 ms MarkObjects: 1.600000 ms  DeleteObjects: 0.044000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001430 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2852.
+Total: 1.878200 ms (FindLiveObjects: 0.186300 ms CreateObjectMapping: 0.095600 ms MarkObjects: 1.551900 ms  DeleteObjects: 0.043600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.388196 seconds.
+  path: Assets/Scripts/Health/DealContactDamage.cs
+  artifactKey: Guid(548729176ee6d454c9adf4ecc548c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Health/DealContactDamage.cs using Guid(548729176ee6d454c9adf4ecc548c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481a6653197d748c2f85c3d1af6daa98') in 0.003437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.669428 seconds.
+  path: Assets/Prefabs/Enemies/Enemy.prefab
+  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45244438af2feb8dee240b5f072f0bc2') in 0.170000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.655581 seconds.
+  path: Assets/Prefabs/Enemies/Enemy.prefab
+  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0070cbc042237405bf51ed1aa6ca81e7') in 0.008815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.408261 seconds.
+  path: Assets/Prefabs/Enemies/Enemy.prefab
+  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170c2395c9ed54147d8ebbe676135b23') in 0.010751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.109209 seconds.
+  path: Assets/Prefabs/Enemies/Enemy.prefab
+  artifactKey: Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemies/Enemy.prefab using Guid(9ec6217296fa61d4a98d758dca476816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eccfa1f0498ffe760fd91855311fda8') in 0.011375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.288791 seconds.
+  path: Assets/Scripts/Enemies/Enemy.cs
+  artifactKey: Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemies/Enemy.cs using Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142578313a9d2d8c402a2dc2fcd55454') in 0.001151 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2892.
+Total: 2.087300 ms (FindLiveObjects: 0.191400 ms CreateObjectMapping: 0.099400 ms MarkObjects: 1.750300 ms  DeleteObjects: 0.045400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.395979 seconds.
+  path: Assets/Scripts/Enemies/Enemy.cs
+  artifactKey: Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemies/Enemy.cs using Guid(90ba3a2b5ff09ab42b4d7f947b8499a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f15b05fdaf747fe7f6d1a46cbad400') in 0.003321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.830516 seconds.
+  path: Assets/Prefabs/Player/Player.prefab
+  artifactKey: Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/Player.prefab using Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f545d2b3cfd626d27f159decfacae82b') in 0.140155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.833518 seconds.
+  path: Assets/Prefabs/Player/Player.prefab
+  artifactKey: Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/Player.prefab using Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2712f86e34c1e66c6c5d6b10dbdc7f0c') in 0.007482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.216044 seconds.
+  path: Assets/Prefabs/Player/Player.prefab
+  artifactKey: Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/Player.prefab using Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315fd766f455119fef060fe7036978e0') in 0.006501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.324982 seconds.
+  path: Assets/Prefabs/Player/Player.prefab
+  artifactKey: Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/Player.prefab using Guid(a54428d5d3b84434b8d8fb363efbdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '015116505f6d903e252b11947a10127c') in 0.008625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.474288 seconds.
+  path: Assets/Scripts/Player/Player.cs
+  artifactKey: Guid(be2a78521c0122d4c8659f04a1e8eefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/Player.cs using Guid(be2a78521c0122d4c8659f04a1e8eefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff252bcd827fecd31373b72c312416d') in 0.001249 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001743 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.7 MB.
+System memory in use after: 120.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2932.
+Total: 2.078900 ms (FindLiveObjects: 0.193200 ms CreateObjectMapping: 0.110000 ms MarkObjects: 1.729500 ms  DeleteObjects: 0.045300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.005626 seconds.
+  path: Assets/Scripts/Player/Player.cs
+  artifactKey: Guid(be2a78521c0122d4c8659f04a1e8eefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/Player.cs using Guid(be2a78521c0122d4c8659f04a1e8eefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c25019d4e00d356f87c1cc54ba31ed8') in 0.003770 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001259 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.710 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.8 MB.
+System memory in use after: 119.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2934.
+Total: 2.277200 ms (FindLiveObjects: 0.193800 ms CreateObjectMapping: 0.100200 ms MarkObjects: 1.934400 ms  DeleteObjects: 0.048100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001201 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2180 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.6 MB.
+System memory in use after: 119.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2936.
+Total: 1.958600 ms (FindLiveObjects: 0.195100 ms CreateObjectMapping: 0.103900 ms MarkObjects: 1.613200 ms  DeleteObjects: 0.045700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

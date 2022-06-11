@@ -19,3 +19,26 @@ MonoBehaviour:
   enemyMaterializeTime: 2
   enemyMaterializeShader: {fileID: -6465566751694194690, guid: 5fec8f8e6ea244648a3c6ede24a56288, type: 3}
   enemyMaterializeColor: {r: 1.9764707, g: 0, b: 1.632245, a: 0}
+  enemyWeapon: {fileID: 11400000, guid: c4213f05c4c80434fb83662419df8b48, type: 2}
+  firingIntervalMin: 1
+  firingIntervalMax: 3
+  firingDurationMin: 8
+  firingDurationMax: 10
+  firingLineOfSightRequired: 0
+  enemyHealthDetailsArray:
+  - dungeonLevel: {fileID: 0}
+    enemyHealthAmount: 0
+  - dungeonLevel: {fileID: 11400000, guid: a782c9a831260c042b0ff417e64eb1dc, type: 2}
+    enemyHealthAmount: 300
+  - dungeonLevel: {fileID: 11400000, guid: 60350ef71a0ce9a40a9fbd4b03ed5c36, type: 2}
+    enemyHealthAmount: 400
+  - dungeonLevel: {fileID: 11400000, guid: 85adbf0dd07d08d4b94ecbc0777ea698, type: 2}
+    enemyHealthAmount: 400
+  - dungeonLevel: {fileID: 11400000, guid: 7610c7160baab974ea9841c656c06700, type: 2}
+    enemyHealthAmount: 400
+  - dungeonLevel: {fileID: 11400000, guid: 493aeb2926e48a2459badea0bc29e295, type: 2}
+    enemyHealthAmount: 400
+  - dungeonLevel: {fileID: 11400000, guid: e5a4d59b7e2944e43a867b0fc30630cf, type: 2}
+    enemyHealthAmount: 400
+  isImmuneAfterHit: 0
+  hitImmunityTime: 0
