@@ -54,16 +54,27 @@ public class Ammo : MonoBehaviour, IFireable
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        DealDamage(collision);
         AmmoHitEffect();
         DisableAmmo();
     }
 
-    /// <summary>
-    /// Initialise the ammo being fired - using the ammodetails, the aimangle, weaponAngle, and
-    /// weaponAimDirectionVector. If this ammo is part of a pattern the ammo movement can be
-    /// overriden by setting overrideAmmoMovement to true
-    /// </summary>
-    public void InitialiseAmmo(AmmoDetailsSO ammoDetails, float aimAngle, float weaponAimAngle, float ammoSpeed, Vector3 weaponAimDirectionVector, bool overrideAmmoMovement = false)
+    private void DealDamage(Collider2D collision)
+    {
+        Health health = collision.GetComponent<Health>();
+
+        if (health != null)
+        {
+            health.TakeDamage(ammoDetails.ammoDamage);
+        }
+    }
+
+        /// <summary>
+        /// Initialise the ammo being fired - using the ammodetails, the aimangle, weaponAngle, and
+        /// weaponAimDirectionVector. If this ammo is part of a pattern the ammo movement can be
+        /// overriden by setting overrideAmmoMovement to true
+        /// </summary>
+        public void InitialiseAmmo(AmmoDetailsSO ammoDetails, float aimAngle, float weaponAimAngle, float ammoSpeed, Vector3 weaponAimDirectionVector, bool overrideAmmoMovement = false)
     {
         #region Ammo
 
