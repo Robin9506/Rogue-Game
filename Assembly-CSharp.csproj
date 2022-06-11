@@ -73,15 +73,18 @@
     <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffect.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Utilities\SpawnableObjectRatio.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DungeonBuilder.cs" />
     <Compile Include="Assets\Scripts\StaticEvents\StaticEventHandler.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Door.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\Weapon.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Effects\MaterializeEffect.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffectSO.cs" />
     <Compile Include="Assets\Scripts\Minimap\Minimap.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementDetailsSO.cs" />
+    <Compile Include="Assets\Scripts\Utilities\SpawnableObjectsByLevel.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffectSO.cs" />
     <Compile Include="Assets\Scripts\AStar\AStarTest.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
@@ -99,15 +102,21 @@
     <Compile Include="Assets\Scripts\Sounds\SoundEffectManager.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocity.cs" />
+    <Compile Include="Assets\Scripts\Dungeon\RoomEnemySpawnParameters.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DoorLightingControl.cs" />
     <Compile Include="Assets\Scripts\Misc\ScreenCursor.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomTemplateSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponReloadedEvent.cs" />
+    <Compile Include="Assets\Scripts\Enemies\AnimateEnemy.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyMovementAI.cs" />
     <Compile Include="Assets\Scripts\Utilities\HelperUtilities.cs" />
     <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
     <Compile Include="Assets\Scripts\Player\CurrentPlayerSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\ReloadWeaponEvent.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\Enemies\SpawnTest.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerControl.cs" />
+    <Compile Include="Assets\Scripts\Utilities\RandomSpawnableObject.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementToPositionEvent.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Room.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
@@ -122,15 +131,7 @@
     <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
-    <Compile Include="Assets\Scripts\Enemies\EnemyMovementAI.cs" />
-    <Compile Include="Assets\Scripts\Enemies\AnimateEnemy.cs" />
-    <Compile Include="Assets\Scripts\Utilities\SpawnableObjectRatio.cs" />
-    <Compile Include="Assets\Scripts\Utilities\SpawnableObjectsByLevel.cs" />
-    <Compile Include="Assets\Scripts\Utilities\RandomSpawnableObject.cs" />
-    <Compile Include="Assets\Scripts\Enemies\SpawnTest.cs" />
-    <Compile Include="Assets\Scripts\Dungeon\RoomEnemySpawnParameters.cs" />
-    <Compile Include="Assets\Scripts\Enemies\EnemySpawner.cs" />
-    <Compile Include="Assets\Scripts\Effects\MaterializeEffect.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemyWeaponAI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

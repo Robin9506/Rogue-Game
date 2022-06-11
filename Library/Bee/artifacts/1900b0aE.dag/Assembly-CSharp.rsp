@@ -345,6 +345,7 @@
 "Assets/Scripts/Enemies/EnemyDetailsSO.cs"
 "Assets/Scripts/Enemies/EnemyMovementAI.cs"
 "Assets/Scripts/Enemies/EnemySpawner.cs"
+"Assets/Scripts/Enemies/EnemyWeaponAI.cs"
 "Assets/Scripts/Enemies/SpawnTest.cs"
 "Assets/Scripts/Enums/Enums.cs"
 "Assets/Scripts/GameManager/GameManager.cs"
