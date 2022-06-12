@@ -21,6 +21,7 @@ public class PlayerControl : MonoBehaviour
     private Coroutine playerRollCoroutine;
     private WaitForFixedUpdate waitForFixedUpdate;
     private float playerRollCooldownTimer = 0f;
+    private bool isPlayerMovementDisabled = false;
 
     [HideInInspector] public bool isPlayerRolling = false;
 
@@ -65,6 +66,11 @@ public class PlayerControl : MonoBehaviour
 
     private void Update()
     {
+        // if player movement disabled then return
+        if (isPlayerMovementDisabled)
+            return;
+
+        // if player is rolling then return
         if (isPlayerRolling) return;
 
         // Process the player movement input
@@ -73,8 +79,8 @@ public class PlayerControl : MonoBehaviour
         // Process the player weapon input
         WeaponInput();
 
+        // Player roll cooldown timer
         PlayerRollCooldownTimer();
-
     }
 
 
@@ -358,6 +364,16 @@ public class PlayerControl : MonoBehaviour
         }
     }
 
+    public void EnablePlayer()
+    {
+        isPlayerMovementDisabled = false;
+    }
+
+    public void DisablePlayer()
+    {
+        isPlayerMovementDisabled = true;
+        player.idleEvent.CallIdleEvent();
+    }
     private void SetCurrentWeaponToFirstInTheList()
     {
         // Create new temporary list

@@ -99,6 +99,8 @@ public class EnemyDetailsSO : ScriptableObject
     #endregion
     public float hitImmunityTime;
 
+    public bool isHealthBarDisplayed = false;
+
 
     #region Validation
 #if UNITY_EDITOR

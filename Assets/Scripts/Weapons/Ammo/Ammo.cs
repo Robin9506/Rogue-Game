@@ -48,6 +48,12 @@ public class Ammo : MonoBehaviour, IFireable
 
         if (ammoRange < 0f)
         {
+            if (ammoDetails.isPlayerAmmo)
+            {
+                // no multiplier
+                StaticEventHandler.CallMultiplierEvent(false);
+            }
+
             DisableAmmo();
         }
 
@@ -65,19 +71,45 @@ public class Ammo : MonoBehaviour, IFireable
     {
         Health health = collision.GetComponent<Health>();
 
+        bool enemyHit = false;
+
         if (health != null)
         {
+            // Set isColliding to prevent ammo dealing damage multiple times
             isColliding = true;
+
             health.TakeDamage(ammoDetails.ammoDamage);
+
+            // Enemy hit
+            if (health.enemy != null)
+            {
+                enemyHit = true;
+            }
         }
+
+        // If player ammo then update multiplier
+        if (ammoDetails.isPlayerAmmo)
+        {
+            if (enemyHit)
+            {
+                // multiplier
+                StaticEventHandler.CallMultiplierEvent(true);
+            }
+            else
+            {
+                // no multiplier
+                StaticEventHandler.CallMultiplierEvent(false);
+            }
+        }
+
     }
 
-        /// <summary>
-        /// Initialise the ammo being fired - using the ammodetails, the aimangle, weaponAngle, and
-        /// weaponAimDirectionVector. If this ammo is part of a pattern the ammo movement can be
-        /// overriden by setting overrideAmmoMovement to true
-        /// </summary>
-        public void InitialiseAmmo(AmmoDetailsSO ammoDetails, float aimAngle, float weaponAimAngle, float ammoSpeed, Vector3 weaponAimDirectionVector, bool overrideAmmoMovement = false)
+    /// <summary>
+    /// Initialise the ammo being fired - using the ammodetails, the aimangle, weaponAngle, and
+    /// weaponAimDirectionVector. If this ammo is part of a pattern the ammo movement can be
+    /// overriden by setting overrideAmmoMovement to true
+    /// </summary>
+    public void InitialiseAmmo(AmmoDetailsSO ammoDetails, float aimAngle, float weaponAimAngle, float ammoSpeed, Vector3 weaponAimDirectionVector, bool overrideAmmoMovement = false)
     {
         #region Ammo
 
