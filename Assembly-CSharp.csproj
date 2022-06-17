@@ -92,6 +92,7 @@
     <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Utilities\SpawnableObjectsByLevel.cs" />
+    <Compile Include="Assets\Scripts\Environment\LightFlicker.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponShootEffectSO.cs" />
     <Compile Include="Assets\Scripts\AStar\AStarTest.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
@@ -133,7 +134,9 @@
     <Compile Include="Assets\Scripts\Movement\Idle.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\ActiveWeapon.cs" />
     <Compile Include="Assets\Scripts\Health\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\Environment\Environment.cs" />
     <Compile Include="Assets\Scripts\UI\WeaponStatusUI.cs" />
+    <Compile Include="Assets\Scripts\Environment\DestroyableItem.cs" />
     <Compile Include="Assets\Scripts\Enums\Enums.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DungeonLevelSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponDetailsSO.cs" />
@@ -142,9 +145,13 @@
     <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
-    <Compile Include="Assets\Scripts\Environment\DestroyableItem.cs" />
-    <Compile Include="Assets\Scripts\Environment\Environment.cs" />
-    <Compile Include="Assets\Scripts\Environment\LightFlicker.cs" />
+    <Compile Include="Assets\Scripts\Environment\MoveItem.cs" />
+    <Compile Include="Assets\Scripts\Environment\IUseable.cs" />
+    <Compile Include="Assets\Scripts\Environment\Table.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoPattern.cs" />
+    <Compile Include="Assets\Scripts\Chests\ChestItem.cs" />
+    <Compile Include="Assets\Scripts\Chests\Chest.cs" />
+    <Compile Include="Assets\Scripts\Chests\ChestSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

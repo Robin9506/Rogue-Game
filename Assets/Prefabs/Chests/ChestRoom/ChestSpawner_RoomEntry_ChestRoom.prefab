@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8493905601236668419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3537633599300267860, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_Name
+      value: ChestSpawner_RoomEntry_ChestRoom
+      objectReference: {fileID: 0}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.data[0].ratio
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.data[1].ratio
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.data[2].ratio
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.data[0].dungeonObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 0d5738f57bde53f4ba7d089e77b36aee, type: 2}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.data[1].dungeonObject
+      value: 
+      objectReference: {fileID: 11400000, guid: b9917494434407847b2026619d57ce91, type: 2}
+    - target: {fileID: 4119338317605928722, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: weaponSpawnByLevelList.Array.data[0].spawnableObjectRatioList.Array.data[2].dungeonObject
+      value: 
+      objectReference: {fileID: 11400000, guid: d5f82ccaaeaa42b4caa7471121b58dfc, type: 2}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4226099274408967200, guid: 1121873991b513642a5beda7f98f1441, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1121873991b513642a5beda7f98f1441, type: 3}
