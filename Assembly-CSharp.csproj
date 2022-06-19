@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scripts\Dungeon\Door.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\Weapon.cs" />
     <Compile Include="Assets\Scripts\GameManager\ActivateRooms.cs" />
+    <Compile Include="Assets\Scripts\Environment\MoveItem.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyDetailsSO.cs" />
     <Compile Include="Assets\Scripts\UI\ScoreUI.cs" />
     <Compile Include="Assets\Scripts\Health\DealContactDamage.cs" />
@@ -102,6 +103,7 @@
     <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
     <Compile Include="Assets\Scripts\AStar\Node.cs" />
     <Compile Include="Assets\Scripts\Misc\CinemachineTarget.cs" />
+    <Compile Include="Assets\Scripts\Chests\ChestItem.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameResources.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\IFireable.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
@@ -111,9 +113,12 @@
     <Compile Include="Assets\Scripts\Sounds\SoundEffectManager.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoDetailsSO.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementByVelocity.cs" />
+    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoPattern.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomEnemySpawnParameters.cs" />
     <Compile Include="Assets\Scripts\Dungeon\DoorLightingControl.cs" />
     <Compile Include="Assets\Scripts\Misc\ScreenCursor.cs" />
+    <Compile Include="Assets\Scripts\Chests\ChestSpawner.cs" />
+    <Compile Include="Assets\Scripts\Environment\IUseable.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomTemplateSO.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\WeaponReloadedEvent.cs" />
     <Compile Include="Assets\Scripts\Enemies\AnimateEnemy.cs" />
@@ -122,6 +127,7 @@
     <Compile Include="Assets\Scripts\Enemies\Enemy.cs" />
     <Compile Include="Assets\Scripts\UI\HealthUI.cs" />
     <Compile Include="Assets\Scripts\Player\CurrentPlayerSO.cs" />
+    <Compile Include="Assets\Scripts\Chests\Chest.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\ReloadWeaponEvent.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemySpawner.cs" />
     <Compile Include="Assets\Scripts\Enemies\SpawnTest.cs" />
@@ -145,13 +151,10 @@
     <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
-    <Compile Include="Assets\Scripts\Environment\MoveItem.cs" />
-    <Compile Include="Assets\Scripts\Environment\IUseable.cs" />
     <Compile Include="Assets\Scripts\Environment\Table.cs" />
-    <Compile Include="Assets\Scripts\Weapons\Ammo\AmmoPattern.cs" />
-    <Compile Include="Assets\Scripts\Chests\ChestItem.cs" />
-    <Compile Include="Assets\Scripts\Chests\Chest.cs" />
-    <Compile Include="Assets\Scripts\Chests\ChestSpawner.cs" />
+    <Compile Include="Assets\Scripts\DungeonMap\DungeonMap.cs" />
+    <Compile Include="Assets\Scripts\Sounds\MusicTrackSO.cs" />
+    <Compile Include="Assets\Scripts\Sounds\MusicManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

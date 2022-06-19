@@ -58,6 +58,9 @@ public class GameManager : SingletonMonobehaviour<GameManager>
 
     private InstantiatedRoom bossRoom;
 
+    private bool isFading = false;
+
+
     protected override void Awake()
     {
         // Call base class
@@ -164,6 +167,9 @@ public class GameManager : SingletonMonobehaviour<GameManager>
 
     public IEnumerator Fade(float startFadeAlpha, float targetFadeAlpha, float fadeSeconds, Color backgroundColor)
     {
+
+        isFading = true;
+
         Image image = canvasGroup.GetComponent<Image>();
         image.color = backgroundColor;
 
@@ -175,6 +181,8 @@ public class GameManager : SingletonMonobehaviour<GameManager>
             canvasGroup.alpha = Mathf.Lerp(startFadeAlpha, targetFadeAlpha, time / fadeSeconds);
             yield return null;
         }
+
+        isFading = false;
 
     }
 
@@ -204,6 +212,35 @@ public class GameManager : SingletonMonobehaviour<GameManager>
 
                 // Trigger room enemies defeated since we start in the entrance where there are no enemies (just in case you have a level with just a boss room!)
                 RoomEnemiesDefeated();
+
+                break;
+
+            case GameState.playingLevel:
+
+                if (Input.GetKeyDown(KeyCode.Tab))
+                {
+                    DisplayDungeonOverviewMap();
+                }
+
+                break;
+
+            case GameState.dungeonOverviewMap:
+
+                // Key released
+                if (Input.GetKeyUp(KeyCode.Tab))
+                {
+                    // Clear dungeonOverviewMap
+                    DungeonMap.Instance.ClearDungeonOverViewMap();
+                }
+
+                break;
+
+            case GameState.bossStage:
+
+                if (Input.GetKeyDown(KeyCode.Tab))
+                {
+                    DisplayDungeonOverviewMap();
+                }
 
                 break;
 
@@ -297,6 +334,16 @@ public class GameManager : SingletonMonobehaviour<GameManager>
             StartCoroutine(BossStage());
         }
 
+    }
+
+    private void DisplayDungeonOverviewMap()
+    {
+        // return if fading
+        if (isFading)
+            return;
+
+        // Display dungeonOverviewMap
+        DungeonMap.Instance.DisplayDungeonOverViewMap();
     }
 
     private IEnumerator BossStage()

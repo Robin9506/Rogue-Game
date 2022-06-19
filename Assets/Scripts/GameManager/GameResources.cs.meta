@@ -3,7 +3,27 @@ guid: 75561b2518215b24f8ac2147956db47e
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - RoomNodeTypeList: {instanceID: 0}
+  - currentPlayer: {instanceID: 0}
+  - soundsMasterMixerGroup: {instanceID: 0}
+  - doorOpenCloseSoundEffect: {instanceID: 0}
+  - tableFlip: {instanceID: 0}
+  - chestOpen: {instanceID: 0}
+  - healthPickup: {instanceID: 0}
+  - weaponPickup: {instanceID: 0}
+  - ammoPickup: {instanceID: 0}
+  - dimmedMaterial: {instanceID: 0}
+  - litMaterial: {instanceID: 0}
+  - variableLitShader: {instanceID: 0}
+  - materializeShader: {instanceID: 0}
+  - preferredEnemyPathTile: {instanceID: 0}
+  - heartPrefab: {instanceID: 0}
+  - ammoIconPrefab: {instanceID: 0}
+  - chestItemPrefab: {instanceID: 0}
+  - heartIcon: {instanceID: 0}
+  - bulletIcon: {instanceID: 0}
+  - minimapSkullPrefab: {fileID: 1724328605688550922, guid: 450e505c4a68bc049b78fec7c323e214, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

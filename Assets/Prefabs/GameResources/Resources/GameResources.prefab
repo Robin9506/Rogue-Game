@@ -45,6 +45,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RoomNodeTypeList: {fileID: 11400000, guid: db69ec8f8d4c7fb468d4653b1582f999, type: 2}
   currentPlayer: {fileID: 11400000, guid: c502ad9c2dbe24949ab6770aa5434f22, type: 2}
+  musicMasterMixerGroup: {fileID: -7206380732494497733, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  musicOnFullSnapshot: {fileID: 24500006, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  musicLowSnapshot: {fileID: 8893122114324796974, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  musicOffSnapshot: {fileID: -3084740370723268673, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
   soundsMasterMixerGroup: {fileID: -4734643798044506327, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
   doorOpenCloseSoundEffect: {fileID: 11400000, guid: b82851f219f5cfb42a33b804fb91cc46, type: 2}
   tableFlip: {fileID: 11400000, guid: 252aed49383925445b5daccea389ebaf, type: 2}
@@ -65,3 +69,4 @@ MonoBehaviour:
   chestItemPrefab: {fileID: 7201650931871485682, guid: fc95f9fff46a7f84395b93a8bc5a945c, type: 3}
   heartIcon: {fileID: 21300000, guid: 93356131eec0f44458223985928ac6e3, type: 3}
   bulletIcon: {fileID: 21300000, guid: a2482871b46d396438236c07b6402283, type: 3}
+  minimapSkullPrefab: {fileID: 1724328605688550922, guid: 450e505c4a68bc049b78fec7c323e214, type: 3}
