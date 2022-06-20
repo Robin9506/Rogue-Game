@@ -45,6 +45,11 @@ public class GameResources : MonoBehaviour
     [Tooltip("Populate with the music master mixer group")]
     #endregion
     public AudioMixerGroup musicMasterMixerGroup;
+
+    #region Tooltip
+    [Tooltip("Main menu music scriptable object")]
+    #endregion Tooltip
+    public MusicTrackSO mainMenuMusic;
     #region Tooltip
     [Tooltip("music on full snapshot")]
     #endregion Tooltip

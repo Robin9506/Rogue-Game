@@ -56,6 +56,7 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DungeonMap\DungeonMap.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\FireWeapon.cs" />
     <Compile Include="Assets\Scripts\Weapons\Weapons\AimWeapon.cs" />
     <Compile Include="Assets\Scripts\Health\DestroyedEvent.cs" />
@@ -89,6 +90,7 @@
     <Compile Include="Assets\Scripts\Health\DealContactDamage.cs" />
     <Compile Include="Assets\Scripts\Effects\MaterializeEffect.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffectSO.cs" />
+    <Compile Include="Assets\Scripts\Sounds\MusicTrackSO.cs" />
     <Compile Include="Assets\Scripts\Minimap\Minimap.cs" />
     <Compile Include="Assets\Scripts\Weapons\Ammo\Ammo.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementDetailsSO.cs" />
@@ -101,6 +103,7 @@
     <Compile Include="Assets\Scripts\Enemies\EnemyWeaponAI.cs" />
     <Compile Include="Assets\Scripts\Sounds\SoundEffect.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Sounds\MusicManager.cs" />
     <Compile Include="Assets\Scripts\AStar\Node.cs" />
     <Compile Include="Assets\Scripts\Misc\CinemachineTarget.cs" />
     <Compile Include="Assets\Scripts\Chests\ChestItem.cs" />
@@ -152,9 +155,8 @@
     <Compile Include="Assets\Scripts\Dungeon\RoomLightingControl.cs" />
     <Compile Include="Assets\Scripts\Dungeon\Doorway.cs" />
     <Compile Include="Assets\Scripts\Environment\Table.cs" />
-    <Compile Include="Assets\Scripts\DungeonMap\DungeonMap.cs" />
-    <Compile Include="Assets\Scripts\Sounds\MusicTrackSO.cs" />
-    <Compile Include="Assets\Scripts\Sounds\MusicManager.cs" />
+    <Compile Include="Assets\Scripts\UI\PauseMenuUI.cs" />
+    <Compile Include="Assets\Scripts\UI\MainMenuUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

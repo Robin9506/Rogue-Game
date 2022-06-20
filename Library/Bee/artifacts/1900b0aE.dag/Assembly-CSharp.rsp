@@ -398,6 +398,8 @@
 "Assets/Scripts/Sounds/SoundEffectSO.cs"
 "Assets/Scripts/StaticEvents/StaticEventHandler.cs"
 "Assets/Scripts/UI/HealthUI.cs"
+"Assets/Scripts/UI/MainMenuUI.cs"
+"Assets/Scripts/UI/PauseMenuUI.cs"
 "Assets/Scripts/UI/ScoreUI.cs"
 "Assets/Scripts/UI/WeaponStatusUI.cs"
 "Assets/Scripts/Utilities/HelperUtilities.cs"
